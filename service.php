@@ -243,8 +243,7 @@ include "./_templates/_service_header.php";
 			</div>
 		</div>
 	</div>
-</div>
-<?php
-include "./_templates/_footer.php";
-include "./_templates/_foot.php";
-?>
+	<?php
+	include "./_templates/_footer.php";
+	include "./_templates/_foot.php";
+	?>

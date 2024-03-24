@@ -40,6 +40,10 @@
   <link rel="stylesheet" type="text/css" href="assets/rslider/fonts/font-awesome/css/font-awesome.css">
   <link rel="stylesheet" type="text/css" href="assets/rslider/css/settings.css">
   <link rel="stylesheet" type="text/css" href="assets/css/override.scss">
+  <link rel="stylesheet" type="text/css" href="assets/css/history.scss">
+  <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+
+
 
 </head>
 

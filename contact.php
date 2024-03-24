@@ -3,7 +3,6 @@ include 'libs/load.php';
 include "./_templates/_head.php";
 include "./_templates/_service_header.php";
 include "./_templates/_search.php";
-include "./_templates/_quote.php";
 ?>
 
 <div class="page-title">
