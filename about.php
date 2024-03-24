@@ -1,7 +1,7 @@
 <?php
 include 'libs/load.php';
-load_template('head');
-load_template('service_header');
+include "./_templates/_head.php";
+include "./_templates/_service_header.php";
 ?>
 
 <!-- Get A Quote  -->
@@ -195,7 +195,6 @@ load_template('service_header');
 </div>
 
 <?php
-load_template('footer');
-
-load_template('foot');
+include "./_templates/_footer.php";
+include "./_templates/_foot.php";
 ?>

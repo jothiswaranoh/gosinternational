@@ -1,14 +1,14 @@
 <!-- // Header  -->
 <?php
 include 'libs/load.php';
-load_template('head');
-load_template('header');
-load_template('search');
-load_template('quote');
-load_template('slider');
-load_template('index_about');
-load_template('index_services');
-load_template('news');
+include "./_templates/_head.php";
+include "./_templates/_header.php";
+include "./_templates/_search.php";
+include "./_templates/_quote.php";
+include "./_templates/_slider.php";
+include "./_templates/_index_about.php";
+include "./_templates/_index_services.php";
+include "./_templates/_news.php";
 ?>
 
 <div class="service-section-1 container">
@@ -84,6 +84,6 @@ load_template('news');
   </div>
 </div>
 <?php
-load_template('footer');
-load_template('foot');
+include "./_templates/_footer.php";
+include "./_templates/_foot.php";
 ?>
