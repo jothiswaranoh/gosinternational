@@ -1,48 +1,48 @@
 <footer class="layout-dark">
-    <div class="container padding-tb-100px">
-      <div class="row">
+  <div class="container padding-tb-100px">
+    <div class="row">
 
-        <div class="col-lg-3 col-md-6">
-          <div class="about-us sm-mb-45px">
-            <div class="logo-footer margin-bottom-35px">
-              <a href="#"><img src="assets/img/logo-1.png" alt=""></a>
-            </div>
-            <div class="text margin-bottom-35px">
-
-            </div>
+      <div class="col-lg-3 col-md-6">
+        <div class="about-us sm-mb-45px">
+          <div class="logo-footer margin-bottom-35px">
+            <a href="#"><img src="assets/img/logo-1.png" alt=""></a>
+          </div>
+          <div class="text margin-bottom-35px">
 
           </div>
+
         </div>
+      </div>
 
-        <div class="col-lg-3 col-md-6">
-          <div class="nile-widget widget_nav_menu sm-mb-45px">
-            <h2 class="title">Our Services</h2>
-            <ul class="footer-menu">
-              <li><a href="#">Marine Cargo Transportation</a></li>
-              <li><a href="#">Cruiser </a></li>
-              <li><a href="#">Ocean Freight </a></li>
-              <li><a href="#">Packaging & Storage </a></li>
+      <div class="col-lg-3 col-md-6">
+        <div class="nile-widget widget_nav_menu sm-mb-45px">
+          <h2 class="title">Our Services</h2>
+          <ul class="footer-menu">
+            <li><a href="#">Marine Cargo Transportation</a></li>
+            <li><a href="#">Cruiser </a></li>
+            <li><a href="#">Ocean Freight </a></li>
+            <li><a href="#">Packaging & Storage </a></li>
 
-            </ul>
-          </div>
+          </ul>
         </div>
+      </div>
 
 
-        <div class="col-lg-3 col-md-6">
-          <div class="nile-widget widget_nav_menu sm-mb-45px">
-            <h2 class="title">Site Pages</h2>
-            <ul class="footer-menu">
-              <li><a href="#">Marine Cargo Transportation </a></li>
-              <li><a href="#">cruiser </a></li>
-              <li><a href="#">Ocean Freight </a></li>
-              <li><a href="#">Packaging & Storage </a></li>
+      <div class="col-lg-3 col-md-6">
+        <div class="nile-widget widget_nav_menu sm-mb-45px">
+          <h2 class="title">Site Pages</h2>
+          <ul class="footer-menu">
+            <li><a href="#">Marine Cargo Transportation </a></li>
+            <li><a href="#">cruiser </a></li>
+            <li><a href="#">Ocean Freight </a></li>
+            <li><a href="#">Packaging & Storage </a></li>
 
-            </ul>
-          </div>
+          </ul>
         </div>
+      </div>
 
 
-        <div class="col-lg-3 col-md-6">
+      <div class="col-lg-3 col-md-6">
           <div class="nile-widget">
             <div class="margin-bottom-60px">
               <h2 class="title">Locations</h2>
@@ -81,29 +81,22 @@
             </div>
           </div>
         </div>
+      
 
-      </div>
-    </div>
-    <div class="copy-right">
+    <div class=" copy-right">
       <div class="container padding-tb-50px">
         <div class="row">
           <div class="col-lg-6">
-            <div class="copy-right-text text-lg-left text-center sm-mb-15px"><a target="_blank"
-                href="https://www.templateshub.net">Templates Hub</a> </div>
+            <div class="copy-right-text text-lg-left text-center sm-mb-15px"><a target="_blank" href="https://www.templateshub.net">Templates Hub</a> </div>
           </div>
           <div class="col-lg-6">
             <!--  Social -->
             <ul class="social-media list-inline text-lg-right text-center margin-0px text-white">
-              <li class="list-inline-item"><a class="facebook" href="#"><i class="fa fa-facebook"
-                    aria-hidden="true"></i></a></li>
-              <li class="list-inline-item"><a class="youtube" href="#"><i class="fa fa-youtube-play"
-                    aria-hidden="true"></i></a></li>
-              <li class="list-inline-item"><a class="linkedin" href="#"><i class="fa fa-linkedin"
-                    aria-hidden="true"></i></a></li>
-              <li class="list-inline-item"><a class="google" href="#"><i class="fa fa-google-plus"
-                    aria-hidden="true"></i></a></li>
-              <li class="list-inline-item"><a class="twitter" href="#"><i class="fa fa-twitter"
-                    aria-hidden="true"></i></a></li>
+              <li class="list-inline-item"><a class="facebook" href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+              <li class="list-inline-item"><a class="youtube" href="#"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></li>
+              <li class="list-inline-item"><a class="linkedin" href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+              <li class="list-inline-item"><a class="google" href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a></li>
+              <li class="list-inline-item"><a class="twitter" href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
               <li class="list-inline-item"><a class="rss" href="#"><i class="fa fa-rss" aria-hidden="true"></i></a></li>
             </ul>
             <!-- // Social -->
@@ -111,4 +104,4 @@
         </div>
       </div>
     </div>
-  </footer>
+</footer>
