@@ -83,8 +83,8 @@ include "./_templates/_service_header.php";
 				</div>
 
 				<p>"Embark on a journey of seamless cargo transportation with us, where no challenge is too big and no cargo too complex.
-					From the smallest packages to the largest pieces of equipment, we handle every cargo with professionalism and care. 
-					Regardless of their size or nature, your items will be carried effectively and safely thanks to our complete approach. 
+					From the smallest packages to the largest pieces of equipment, we handle every cargo with professionalism and care.
+					Regardless of their size or nature, your items will be carried effectively and safely thanks to our complete approach.
 					Allow us to be your dependable logistics partner, bringing comfort with each shipment.</p>
 
 				<h2>We provide Customized Logistics Services , bridging the gap between Storage and Transportation </h2>
@@ -106,145 +106,151 @@ include "./_templates/_service_header.php";
 
 						<div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordion">
 							<div class="card-body">
-								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </div>
+								<p>Count on Green Ocean Shipping International Pvt Ltd's proven track record of excellence and unwavering commitment to your satisfaction, making us the dependable choice for all your logistics needs</p>
+							</div>
 						</div>
-					</div>
-					<div class="card">
-						<div class="card-header" id="headingTwo">
-							<h5 class="mb-0">
-								<button class="btn btn-block btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="fa fa-truck"></i> Explore our Facilities</button>
-							</h5>
-						</div>
-						<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
-							<div class="card-body">
-								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </div>
-						</div>
-					</div>
-					<div class="card">
-						<div class="card-header" id="headingThree">
-							<h5 class="mb-0">
-								<button class="btn btn-block btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="fa fa-plane"></i> Warehousing Solution</button>
-							</h5>
-						</div>
-						<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
-							<div class="card-body">
-								Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation </div>
-						</div>
-					</div>
-				</div>
-			</div>
-
-
-
-			<div class="col-lg-3">
-
-				<div class="background-main-color margin-bottom-40px">
-					<div class="services-list">
-						<ul>
-							<li><a href="service-single.html">Air Freight</a></li>
-							<li><a href="service-single.html">Ocean Freight</a></li>
-							<li><a href="service-single.html">Packaging and Storage</a></li>
-							<li class="active"><a href="service-single.html">Cargo Transportation </a></li>
-							<li><a href="service-single.html">Fast Delivery</a></li>
-							<li><a href="service-single.html">Railroad Transportation</a></li>
-						</ul>
-					</div>
-				</div>
-
-
-
-				<div class="background-white margin-bottom-40px">
-					<div class="nile-widget contact-widget">
-						<div class="padding-30px">
-							<div class="margin-bottom-60px">
-								<h2 class="title">Location</h2>
-								<div class="contact-info opacity-9">
-									<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
-									<div class="text">
-										<span class="title-in">Location :</span> <br>
-										<span class="font-weight-500 text-uppercase">US - Los Angeles</span>
-									</div>
+						<div class="card">
+							<div class="card-header" id="headingTwo">
+								<h5 class="mb-0">
+									<button class="btn btn-block btn-link collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo"><i class="fa fa-truck"></i> Explore our Facilities</button>
+								</h5>
+							</div>
+							<div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+								<div class="card-body">
+									<p>Examine our extensive offerings, which include dependable logistical solutions for all of your needs and effective air, sea, rail, and road transportation choices."</p>
 								</div>
 							</div>
-							<div class="call_center">
-								<h2 class="title">Call Center</h2>
-								<div class="contact-info opacity-9">
-									<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
-									<div class="text">
-										<span class="title-in">Call Us :</span><br>
-										<span class="font-weight-500 text-uppercase">00222123333019</span>
-									</div>
+						</div>
+						<div class="card">
+							<div class="card-header" id="headingThree">
+								<h5 class="mb-0">
+									<button class="btn btn-block btn-link collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree"><i class="fa fa-plane"></i> Warehousing Solution</button>
+								</h5>
+							</div>
+							<div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordion">
+								<div class="card-body">
+									<p>Explore the possibilities of Impeccable storage solution with the aid of our warehouse solutions. Our cutting-edge security and personalized inventory management offer a secure haven for your possessions that ensures efficiency and security at all times.
+									</p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 
-				<div class="contact-modal">
-					<div class="background-grey-4 text-white">
-						<div class="padding-30px">
-							<h3 class="padding-bottom-15px">Get A Free Quote</h3>
-							<form>
-								<div class="form-row">
-									<div class="form-group col-md-12">
-										<label>Full Name</label>
-										<input type="text" class="form-control" id="inputName44" placeholder="Name">
-									</div>
-									<div class="form-group col-md-12">
-										<label>Email</label>
-										<input type="email" class="form-control" id="inputEmail44" placeholder="Email">
+
+
+				<div class="col-lg-3">
+
+					<div class="background-main-color margin-bottom-40px">
+						<div class="services-list">
+							<ul>
+								<li><a href="service-single.html">Air Freight</a></li>
+								<li><a href="service-single.html">Ocean Freight</a></li>
+								<li><a href="service-single.html">Packaging and Storage</a></li>
+								<li class="active"><a href="service-single.html">Cargo Transportation </a></li>
+								<li><a href="service-single.html">Fast Delivery</a></li>
+								<li><a href="service-single.html">Railroad Transportation</a></li>
+							</ul>
+						</div>
+					</div>
+
+
+
+					<div class="background-white margin-bottom-40px">
+						<div class="nile-widget contact-widget">
+							<div class="padding-30px">
+								<div class="margin-bottom-60px">
+									<h2 class="title">Location</h2>
+									<div class="contact-info opacity-9">
+										<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
+										<div class="text">
+											<span class="title-in">Location :</span> <br>
+											<span class="font-weight-500 text-uppercase">US - Los Angeles</span>
+										</div>
 									</div>
 								</div>
-								<div class="form-group">
-									<label>Message</label>
-									<textarea class="form-control" id="exampleFormControlTextarea11" rows="3"></textarea>
+								<div class="call_center">
+									<h2 class="title">Call Center</h2>
+									<div class="contact-info opacity-9">
+										<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
+										<div class="text">
+											<span class="title-in">Call Us :</span><br>
+											<span class="font-weight-500 text-uppercase">00222123333019</span>
+										</div>
+									</div>
 								</div>
-								<a href="#" class="btn-sm btn-lg btn-block background-main-color text-white text-center  text-uppercase rounded-0 padding-15px">SEND MESSAGE</a>
-							</form>
+							</div>
+						</div>
+					</div>
+
+					<div class="contact-modal">
+						<div class="background-grey-4 text-white">
+							<div class="padding-30px">
+								<h3 class="padding-bottom-15px">Get A Free Quote</h3>
+								<form>
+									<div class="form-row">
+										<div class="form-group col-md-12">
+											<label>Full Name</label>
+											<input type="text" class="form-control" id="inputName44" placeholder="Name">
+										</div>
+										<div class="form-group col-md-12">
+											<label>Email</label>
+											<input type="email" class="form-control" id="inputEmail44" placeholder="Email">
+										</div>
+									</div>
+									<div class="form-group">
+										<label>Message</label>
+										<textarea class="form-control" id="exampleFormControlTextarea11" rows="3"></textarea>
+									</div>
+									<a href="#" class="btn-sm btn-lg btn-block background-main-color text-white text-center  text-uppercase rounded-0 padding-15px">SEND MESSAGE</a>
+								</form>
+							</div>
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+	<div class="call-action ba-1">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 padding-tb-15px">
+					<h2>Unbeatable Trucking and Transport Services</h2>
+					<div class="text"><p>For the past 25 years, we have set the standard for service in the transportation sector.
+                        We have decades of experience and have mastered the art of dependable, safe, and timely delivery of goods.
+                        Our trained team of experts manages all elements of logistics, ensuring that every trip runs smoothly from start to finish.
+                        Our fleet of vehicles can effortlessly negotiate any terrain, earning the trust of consumers all around the world, whether they are in crowded cities or remote rural locations.</p></div>
+				</div>
+				<div class="col-lg-5">
+					<div class="row">
+						<div class="col-lg-4 col-md-4 sm-mb-45px">
+							<a href="#" class="action-bottom layout-1">
+								<img src="assets/icons/small-icon-1.png" alt="">
+								<h4>Tell Friend</h4>
+							</a>
+						</div>
+						<div class="col-lg-4 col-md-4 sm-mb-45px">
+							<a href="#" class="action-bottom layout-1">
+								<img src="assets/icons/small-icon-2.png" alt="">
+								<h4>Read More</h4>
+							</a>
+						</div>
+						<div class="col-lg-4 col-md-4">
+							<a href="#" class="action-bottom layout-1">
+								<img src="assets/icons/small-icon-3.png" alt="">
+								<h4>Contact Us</h4>
+							</a>
 						</div>
 					</div>
 				</div>
-
-			</div>
-
-		</div>
-	</div>
-</div>
-
-
-<div class="call-action ba-1">
-	<div class="container">
-		<div class="row">
-			<div class="col-lg-7 padding-tb-15px">
-				<h2>Unbeatable Trucking and Transport Services</h2>
-				<div class="text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
-			</div>
-			<div class="col-lg-5">
-				<div class="row">
-					<div class="col-lg-4 col-md-4 sm-mb-45px">
-						<a href="#" class="action-bottom layout-1">
-							<img src="assets/icons/small-icon-1.png" alt="">
-							<h4>Tell Friend</h4>
-						</a>
-					</div>
-					<div class="col-lg-4 col-md-4 sm-mb-45px">
-						<a href="#" class="action-bottom layout-1">
-							<img src="assets/icons/small-icon-2.png" alt="">
-							<h4>Read More</h4>
-						</a>
-					</div>
-					<div class="col-lg-4 col-md-4">
-						<a href="#" class="action-bottom layout-1">
-							<img src="assets/icons/small-icon-3.png" alt="">
-							<h4>Contact Us</h4>
-						</a>
-					</div>
-				</div>
 			</div>
 		</div>
 	</div>
-</div>
-<?php
-include "./_templates/_footer.php";
-include "./_templates/_foot.php";
-?>
+	<?php
+	include "./_templates/_footer.php";
+	include "./_templates/_foot.php";
+	?>
