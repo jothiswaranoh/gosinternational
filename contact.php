@@ -1,13 +1,10 @@
 <?php
 include 'libs/load.php';
-load_template('head');
-load_template('service_header');
-load_template('search');
-load_template('quote');
+include "./_templates/_head.php";
+include "./_templates/_service_header.php";
+include "./_templates/_search.php";
+include "./_templates/_quote.php";
 ?>
-
-
-
 
 <div class="page-title">
   <div class="container">
@@ -120,6 +117,6 @@ load_template('quote');
 </div>
 
 <?php
-load_template('footer');
-load_template('foot');
+include "./_templates/_footer.php";
+include "./_templates/_foot.php";
 ?>
