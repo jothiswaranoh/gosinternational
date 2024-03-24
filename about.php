@@ -133,7 +133,14 @@ load_template('service_header');
                 <div class="col-lg-7">
                     <div class="icon text-main-color"><i class="fa fa-truck"></i></div>
                     <div class="h2">Our Service</div>
-                    <div class="des">In quis luctus dolor. Sed ac libero arcu. Phasellus vulputate ultrices augue, eget feugiat lectus efficitur in. Nulla non pharetra justo. Nunc viverra consectetur bibendum. </div>
+                    <div class="des">
+                        <p> We provide a complete range of logistical solutions adapted to your specific requirements.
+                            From efficient <u>Cargo transportation</u> to fast <u>air and ocean freight services</u> , we ensure that your items
+                            arrive safely and on time.
+                            Additionally, our experienced <u>packaging and storage</u> facilities provide the highest care and security for your
+                            treasured cargo.
+                            We handle your logistical needs with accuracy, dependability, and unparalleled experience.</p>
+                    </div>
                 </div>
             </div>
         </div>
@@ -145,12 +152,16 @@ load_template('service_header');
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-dark-1.png" alt=""></div>
                     <a href="#" class="title h2">Cargo Transportation</a>
-                    <div class="des"><p>From little gifts to large loads , we handle every cargo with the highest care and attention to detail,  to give our customers a flawless and trouble-free experience.</p></div>
+                    <div class="des">
+                        <p>From little gifts to large loads , we handle every cargo with the highest care and attention to detail,  to give our customers a flawless and trouble-free experience.</p>
+                    </div>
                 </div>
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-dark-2.png" alt=""></div>
                     <a href="#" class="title h2">Air Freight</a>
-                    <div class="des"><p>Providing an efficient and dependable aerial cargo delivery across the globe. Air freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival</p></div>
+                    <div class="des">
+                        <p>Providing an efficient and dependable aerial cargo delivery across the globe. Air freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival</p>
+                    </div>
                 </div>
             </div>
             <div class="col-lg-4">
@@ -162,12 +173,16 @@ load_template('service_header');
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-dark-3.png" alt=""></div>
                     <a href="#" class="title h2">Ocean Freight</a>
-                    <div class="des"><p>Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.</p></div>
+                    <div class="des">
+                        <p>Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.</p>
+                    </div>
                 </div>
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-dark-4.png" alt=""></div>
                     <a href="#" class="title h2">Packaging & Storage</a>
-                    <div class="des"><p>Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage option.</p></div>
+                    <div class="des">
+                        <p>Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage option.</p>
+                    </div>
                 </div>
             </div>
         </div>
