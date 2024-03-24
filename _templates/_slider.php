@@ -8,7 +8,7 @@
             <a href="#" class="title">Road Freight</a>
           </div>
           <div class="dis clearfix">
-            Chances are unless you are very lucky you will.
+          <p>Efficacy on wheels: Road freight maintains global mobility</p>
           </div>
         </div>
       </div>
@@ -19,7 +19,7 @@
             <a href="#" class="title">Air Freight</a>
           </div>
           <div class="dis clearfix">
-            Chances are unless you are very lucky you will.
+          <p>High-altitude efficacy: Air cargo fosters global connectivity</p>
           </div>
         </div>
       </div>
@@ -30,7 +30,7 @@
             <a href="#" class="title">Ocean Freight</a>
           </div>
           <div class="dis clearfix">
-            Chances are unless you are very lucky you will.
+          <p>Seafaring reliability: Ocean freight forms the backbone of global exchange.</p>
           </div>
         </div>
       </div>
