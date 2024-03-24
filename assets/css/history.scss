@@ -1,0 +1,57 @@
+$main-color: #333;
+$section-margin: 45px;
+$text-margin: 25px;
+
+#history .nile-about-section {
+  .row {
+    margin-left: -15px;
+    margin-right: -15px;
+
+    > [class^="col-"] {
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+  }
+
+  .section-title {
+    &-left,
+    &-right {
+      .icon {
+      }
+
+      .title-text {
+        color: $main-color;
+      }
+    }
+
+    &-left {
+      text-align: left;
+    }
+
+    &-right {
+      text-align: right;
+    }
+  }
+
+  .about-text {
+    margin: $text-margin 0;
+  }
+
+  .col-lg-6 {
+    &.sm-mb-45px {
+      margin-bottom: $section-margin;
+    }
+  }
+
+  .order-lg-last {
+    @include media-breakpoint-up(lg) {
+      order: 2;
+    }
+  }
+
+  .order-lg-first {
+    @include media-breakpoint-up(lg) {
+      order: -1;
+    }
+  }
+}

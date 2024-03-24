@@ -4,7 +4,10 @@ $menuItems = array(
     array("url" => "index.php", "title" => "Home"),
     array("url" => "about.php", "title" => "About"),
     array("url" => "service.php", "title" => "Services"),
-    array("url" => "contact.php", "title" => "Contact us")
+    array("url" => "contact.php", "title" => "Contact us"),
+    array("url" => "histroy.php", "title" => "History"),
+
+    
 );
 
 // Define contact details array

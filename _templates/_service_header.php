@@ -3,7 +3,9 @@ $menuItems = array(
     array("url" => "index.php", "title" => "Home"),
     array("url" => "about.php", "title" => "About"),
     array("url" => "service.php", "title" => "Services"),
-    array("url" => "contact.php", "title" => "Contact us")
+    array("url" => "contact.php", "title" => "Contact us"),
+    array("url" => "histroy.php", "title" => "History"),
+
 );
 
 $contacts = array(
@@ -27,55 +29,6 @@ $socialMediaLinks = array(
       <div class="header-in">
 
         <!-- Up Head -->
-        <div class="up-head d-none d-lg-block background-grey-4">
-          <div class="container">
-            <div class="row">
-              <div class="col-xl-8 col-lg-12">
-                <div class="row">
-                  <?php foreach ($contacts as $contact): ?>
-                  <div class="col-md-4"><i class="<?php echo $contact['icon']; ?> margin-right-10px"></i> <?php echo $contact['info']; ?></div>
-                  <?php endforeach; ?>
-                </div>
-              </div>
-              <div class="col-xl-4 d-none d-xl-block">
-                <div class="row">
-                  <div class="col-lg-6">
-                    <!-- lang dropdown -->
-                    <div class="dropdown show">
-                      <a class="dropdown-toggle text-white text-uppercase" href="#" role="button" id="dropdownMenuLink"
-                        data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                        <span class="flag-icon flag-icon-us margin-right-8px"></span> English
-                      </a>
-
-                      <div class="dropdown-menu text-small text-uppercase" aria-labelledby="dropdownMenuLink">
-                        <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-es margin-right-8px"></span>
-                          Spanish</a>
-                        <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-mr margin-right-8px"></span>
-                          Arabic</a>
-                        <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-fr margin-right-8px"></span>
-                          French</a>
-                        <a class="dropdown-item" href="#"><span class="flag-icon flag-icon-de margin-right-8px"></span>
-                          German</a>
-                      </div>
-                    </div>
-                    <!-- // lang dropdown -->
-
-                  </div>
-
-                  <div class="col-lg-6">
-                    <!--  Social -->
-                    <ul class="social-media list-inline text-right margin-0px text-white">
-                      <?php foreach ($socialMediaLinks as $socialLink): ?>
-                      <li class="list-inline-item"><a class="<?php echo $socialLink['icon']; ?>" href="<?php echo $socialLink['url']; ?>"><img src="<?php echo $socialLink['image']; ?>" alt=""></a></li>
-                      <?php endforeach; ?>
-                    </ul>
-                    <!-- // Social -->
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
         <!-- // Up Head -->
         <div class="container">
           <div class="position-relative">

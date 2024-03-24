@@ -1357,6 +1357,11 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
   margin-top: -10px;
 }
 
+.section-title-left .icon {
+  float: right;
+  margin-right: 20px;
+  margin-top: -10px;
+}
 .nile-about-section {
   padding: 100px 0px 100px 0px;
   background-image: url(../img/ba_1.jpg);
