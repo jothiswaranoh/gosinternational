@@ -71,11 +71,11 @@ load_template('service_header');
                 <div class="about-text margin-tb-25px">
                     <h4>25 years of experience in Logistics services</h4>
                     <p>We are leaders in the field of logistics services, having established standards for excellence in freight transportation throughout a 25-year history.
-                    Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure.
-                    We have mastered our skills by navigating through difficulties and victories, from busy ports to the most remote regions of the world.
-                    With an eye for innovation and a drive for excellence, we create custom solutions that skillfully combine knowledge, experience, and individualized attention.
-                    You can rely on us to deliver your cargo quickly and precisely, making sure it gets to its destination without incident.
-                    Discover the distinction by working with our skilled staff, who are committed to offering the best logistics solutions available.</p>
+                        Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure.
+                        We have mastered our skills by navigating through difficulties and victories, from busy ports to the most remote regions of the world.
+                        With an eye for innovation and a drive for excellence, we create custom solutions that skillfully combine knowledge, experience, and individualized attention.
+                        You can rely on us to deliver your cargo quickly and precisely, making sure it gets to its destination without incident.
+                        Discover the distinction by working with our skilled staff, who are committed to offering the best logistics solutions available.</p>
                 </div>
                 <a href="#" class="nile-bottom sm">Read More</a>
 
@@ -97,7 +97,12 @@ load_template('service_header');
         <div class="row">
             <div class="col-lg-7 padding-tb-15px">
                 <h2>Unbeatable Trucking and Transport Services</h2>
-                <div class="text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
+                <div class="text">
+                    <p>For the past 25 years, we have set the standard for service in the transportation sector.
+                        We have decades of experience and have mastered the art of dependable, safe, and timely delivery of goods.
+                        Our trained team of experts manages all elements of logistics, ensuring that every trip runs smoothly from start to finish.
+                        Our fleet of vehicles can effortlessly negotiate any terrain, earning the trust of consumers all around the world, whether they are in crowded cities or remote rural locations.</p>
+                </div>
             </div>
             <div class="col-lg-5">
                 <div class="row">
