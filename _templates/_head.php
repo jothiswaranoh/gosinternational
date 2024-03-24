@@ -39,6 +39,8 @@
   <link rel="stylesheet" type="text/css" href="assets/rslider/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
   <link rel="stylesheet" type="text/css" href="assets/rslider/fonts/font-awesome/css/font-awesome.css">
   <link rel="stylesheet" type="text/css" href="assets/rslider/css/settings.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/override.scss">
+
 </head>
 
 <body>
