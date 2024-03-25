@@ -2,6 +2,8 @@
 include 'libs/load.php';
 include "./_templates/_head.php";
 include "./_templates/_service_header.php";
+$truck_transport = "Use our world-class shipping and transport services to deliver your goods quickly and effectively. 
+You can rely on us to deliver your things in pristine condition, on time, and to their intended location.";
 ?>
 
 
@@ -217,7 +219,7 @@ include "./_templates/_service_header.php";
 						<div class="row">
 							<div class="col-lg-7 padding-tb-15px">
 								<h2>Unbeatable Trucking and Transport Services</h2>
-								<div class="text"><p>"Efficiently deliver your goods with our unbeatable shipping and transport services. Trust us to get your products where they need to be, on time and in perfect condition."</p></div>
+								<div class="text"><p><?php echo $truck_transport ?></p></div>
 							</div>
 							<div class="col-lg-5">
 								<div class="row">
@@ -282,7 +284,7 @@ include "./_templates/_service_header.php";
 		<div class="row">
 			<div class="col-lg-7 padding-tb-15px">
 				<h2>Unbeatable Trucking and Transport Services</h2>
-				<div class="text">Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</div>
+				<div class="text"><p><?php echo $truck_transport ?></p> </div>
 			</div>
 			<div class="col-lg-5">
 				<div class="row">
