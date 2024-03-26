@@ -24,6 +24,23 @@ $socialMediaLinks = array(
     array('name' => 'twitter', "icon" => "fa fa-twitter", "url" => "#", "image" => "path_to_twitter_image"),
     array('name' => 'rss', "icon" => "fa fa-rss", "url" => "#", "image" => "path_to_rss_image")
 );
+
+$cargo_cart_title = "Cargo Transportation";
+$cargo_delivery_amnt = "1 X 250$";
+
+$air_freight_cart_title = "Air Freight";
+$air_freight_delivery_amnt = "1 X 250$";
+
+$pack_store_title = "Packaging & Storage";
+$pack_store_amnt = "1 X 250$";
+
+$sub_total_title = "Subtotal:";
+$sub_total_amnt = "$71.00";
+
+$view_cart = "View Cart";
+$checkout = "Checkout";
+
+$get_a_quote = "Get A Quote";
 ?>
 
 <header>
@@ -91,8 +108,8 @@ $socialMediaLinks = array(
                                         </a>
                                         <div class="media-body">
                                             <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#">Cargo Transportation</a></h5>
-                                            <h6 class="mt-0 font-2">1 X 250$</h6>
+                                            <h5 class="mt-0"><a href="#"><?php echo $cargo_cart_title?></a></h5>
+                                            <h6 class="mt-0 font-2"><?php echo $cargo_transport_amnt?></h6>
                                         </div>
                                     </div>
 
@@ -102,8 +119,8 @@ $socialMediaLinks = array(
                                         </a>
                                         <div class="media-body">
                                             <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#">Air Freight</a></h5>
-                                            <h6 class="mt-0 font-2">1 X 250$</h6>
+                                            <h5 class="mt-0"><a href="#"><?php echo $air_freight_cart_title?></a></h5>
+                                            <h6 class="mt-0 font-2"><?php echo $$air_freight_delivery_amnt?></h6>
                                         </div>
                                     </div>
 
@@ -113,20 +130,19 @@ $socialMediaLinks = array(
                                         </a>
                                         <div class="media-body">
                                             <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#">Packaging & Storage</a></h5>
-                                            <h6 class="mt-0 font-2">1 X 250$</h6>
+                                            <h5 class="mt-0"><a href="#"><?php echo $pack_store_title?></a></h5>
+                                            <h6 class="mt-0 font-2"><?php echo $pack_store_amnt?></h6>
                                         </div>
                                     </div>
 
                                     <div class="padding-0px">
                                         <div class="cart-total background-main-color padding-lr-30px padding-tb-10px text-white">
-                                            <div class="desc">Subtotal:</div>
-                                            <div class="price"><strong>$71.00</strong></div>
+                                            <div class="desc"><?php echo $sub_total_title?></div>
+                                            <div class="price"><strong><?php echo $sub_total_title?></strong></div>
                                             <div class="clearfix"></div>
                                         </div>
-                                        <a href="#" class="btn btn-primary btn-lg btn-block">view
-                                            cart</a>
-                                        <a href="#" class="btn btn-outline-primary btn-lg btn-block">Checkout</a>
+                                        <a href="#" class="btn btn-primary btn-lg btn-block"><?php $view_cart?></a>
+                                        <a href="#" class="btn btn-outline-primary btn-lg btn-block"><?php $checkout?></a>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +155,7 @@ $socialMediaLinks = array(
                         <div class="col-lg-2 col-md-12  d-none d-lg-block">
                             <a data-toggle="modal" data-target=".bd-example-modal-lg" href="#" class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color  box-shadow float-right padding-lr-20px margin-left-30px d-block">
                                 <i class="fa fa-envelope-o margin-right-10px"></i>
-                                Get A Quote
+                                <?php echo $get_a_quote?>
                             </a>
                         </div>
                     </div>

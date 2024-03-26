@@ -1,7 +1,8 @@
+<?php $title = "Gosinternational";?>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-  <title>Gosinternational</title>
+  <title><?php echo $title?></title>
   <meta name="author" content="Nile-Theme">
   <meta name="robots" content="index follow">
   <meta name="googlebot" content="index follow">
