@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
-
-<!-- home-100:13-->
-
 <head>
   <title>Gosinternational</title>
   <meta name="author" content="Nile-Theme">
@@ -42,9 +38,5 @@
   <link rel="stylesheet" type="text/css" href="assets/css/override.scss">
   <link rel="stylesheet" type="text/css" href="assets/css/history.scss">
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
-
-
-
 </head>
-
 <body>

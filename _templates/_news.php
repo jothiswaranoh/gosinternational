@@ -13,9 +13,7 @@
         </div>
       </div>
       <!-- // End Title -->
-
       <div class="row">
-
         <div class="col-lg-4 col-md-6 sm-mb-35px">
           <div class="blog-item">
             <div class="img">
@@ -28,7 +26,6 @@
             <a href="#" class="title">Long Don’t Spend Time Beating On A Wall, Hoping To Trans ...</a>
           </div>
         </div>
-
 
         <div class="col-lg-4 col-md-6 sm-mb-35px">
           <div class="blog-item">
@@ -43,7 +40,6 @@
           </div>
         </div>
 
-
         <div class="col-lg-4 col-md-6 sm-mb-35px">
           <div class="blog-item">
             <div class="img">
@@ -56,8 +52,6 @@
             <a href="#" class="title">Long Don’t Spend Time Beating On A Wall, Hoping To Trans ...</a>
           </div>
         </div>
-
       </div>
-
     </div>
   </div>
