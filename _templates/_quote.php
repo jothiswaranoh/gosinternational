@@ -65,7 +65,7 @@
             data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
             style="z-index: 5; min-width: 461px; max-width: 461px; max-width: 173px; max-width: 173px; white-space: nowrap; font-size: 50px; line-height: 59px; font-weight: 400; color: #ffffff; letter-spacing: -4px;font-family:Poppins;">
             Making<br> Transportation
-            <br> Fast & Savw
+            <br> Fast & Safe
           </div>
 
           <!-- LAYER NR. 2 -->
@@ -100,7 +100,7 @@
             data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
             style="z-index: 5; min-width: 461px; max-width: 461px; max-width: 173px; max-width: 173px; white-space: nowrap; font-size: 50px; line-height: 59px; font-weight: 400; color: #ffffff; letter-spacing: -4px;font-family:Poppins;">
             Making<br> Transportation
-            <br> Fast & Savw
+            <br> Fast & Safe
           </div>
 
           <!-- LAYER NR. 4 -->
