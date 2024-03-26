@@ -135,9 +135,9 @@ include "./_templates/_service_header.php";
                     <div class="h2">Our Service</div>
                     <div class="des">
                         <p> We provide a complete range of logistical solutions adapted to your specific requirements.
-                            From efficient <u>Cargo transportation</u> to fast <u>air and ocean freight services</u> , we ensure that your items
+                            From efficient <i>Cargo transportation</i> to fast <i>air and ocean freight services</i> , we ensure that your items
                             arrive safely and on time.
-                            Additionally, our experienced <u>packaging and storage</u> facilities provide the highest care and security for your
+                            Additionally, our experienced <i>packaging and storage</i> facilities provide the highest care and security for your
                             treasured cargo.
                             We handle your logistical needs with accuracy, dependability, and unparalleled experience.</p>
                     </div>
