@@ -63,9 +63,7 @@ $aboutSections = array(
       </div>
       <div class="col-md-7">
         <h3><?php echo $aboutSections[0]["title"]; ?></h3>
-        <p class="fst-italic">
-          <?php echo $aboutSections[0]["content"]; ?>
-        </p>
+        <p class="fst-italic"><?php echo $aboutSections[0]["content"]; ?></p>
       </div>
     </div><!-- Features Item -->
 
@@ -75,9 +73,7 @@ $aboutSections = array(
       </div>
       <div class="col-md-7 order-2 order-md-1">
         <h3><?php echo $aboutSections[1]["title"]; ?></h3>
-        <p class="fst-italic">
-          <?php echo $aboutSections[1]["content"]; ?>
-        </p>
+        <p class="fst-italic"><?php echo $aboutSections[1]["content"]; ?></p>
       </div>
     </div><!-- Features Item -->
 

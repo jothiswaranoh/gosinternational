@@ -150,150 +150,83 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 							</div>
 						</div>
 					</div>
+				</div>
+			</div>
+
+			<div class="col-lg-3">
+
+				<div class="background-main-color margin-bottom-40px">
+					<div class="services-list">
+						<ul>
+							<li><a href="service-single.html">Air Freight</a></li>
+							<li><a href="service-single.html">Ocean Freight</a></li>
+							<li><a href="service-single.html">Packaging and Storage</a></li>
+							<li class="active"><a href="service-single.html">Cargo Transportation </a></li>
+							<li><a href="service-single.html">Fast Delivery</a></li>
+							<li><a href="service-single.html">Railroad Transportation</a></li>
+						</ul>
+					</div>
+				</div>
 
 
 
-					<div class="col-lg-3">
-
-						<div class="background-main-color margin-bottom-40px">
-							<div class="services-list">
-								<ul>
-									<li><a href="service-single.html">Air Freight</a></li>
-									<li><a href="service-single.html">Ocean Freight</a></li>
-									<li><a href="service-single.html">Packaging and Storage</a></li>
-									<li class="active"><a href="service-single.html">Cargo Transportation </a></li>
-									<li><a href="service-single.html">Fast Delivery</a></li>
-									<li><a href="service-single.html">Railroad Transportation</a></li>
-								</ul>
-							</div>
-						</div>
-
-
-
-						<div class="background-white margin-bottom-40px">
-							<div class="nile-widget contact-widget">
-								<div class="padding-30px">
-									<div class="margin-bottom-60px">
-										<h2 class="title">Location</h2>
-										<div class="contact-info opacity-9">
-											<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
-											<div class="text">
-												<span class="title-in">Location :</span> <br>
-												<span class="font-weight-500 text-uppercase">US - Los Angeles</span>
-											</div>
-										</div>
+				<div class="background-white margin-bottom-40px">
+					<div class="nile-widget contact-widget">
+						<div class="padding-30px">
+							<div class="margin-bottom-60px">
+								<h2 class="title">Location</h2>
+								<div class="contact-info opacity-9">
+									<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
+									<div class="text">
+										<span class="title-in">Location :</span> <br>
+										<span class="font-weight-500 text-uppercase">US - Los Angeles</span>
 									</div>
-									<div class="call_center">
-										<h2 class="title">Call Center</h2>
-										<div class="contact-info opacity-9">
-											<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
-											<div class="text">
-												<span class="title-in">Call Us :</span><br>
-												<span class="font-weight-500 text-uppercase">00222123333019</span>
-											</div>
-										</div>
+								</div>
+							</div>
+							<div class="call_center">
+								<h2 class="title">Call Center</h2>
+								<div class="contact-info opacity-9">
+									<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
+									<div class="text">
+										<span class="title-in">Call Us :</span><br>
+										<span class="font-weight-500 text-uppercase">00222123333019</span>
 									</div>
 								</div>
 							</div>
 						</div>
-
-						<div class="contact-modal">
-							<div class="background-grey-4 text-white">
-								<div class="padding-30px">
-									<h3 class="padding-bottom-15px">Get A Free Quote</h3>
-									<form>
-										<div class="form-row">
-											<div class="form-group col-md-12">
-												<label>Full Name</label>
-												<input type="text" class="form-control" id="inputName44" placeholder="Name">
-											</div>
-											<div class="form-group col-md-12">
-												<label>Email</label>
-												<input type="email" class="form-control" id="inputEmail44" placeholder="Email">
-											</div>
-										</div>
-										<div class="form-group">
-											<label>Message</label>
-											<textarea class="form-control" id="exampleFormControlTextarea11" rows="3"></textarea>
-										</div>
-										<a href="#" class="btn-sm btn-lg btn-block background-main-color text-white text-center  text-uppercase rounded-0 padding-15px">SEND MESSAGE</a>
-									</form>
-								</div>
-							</div>
-						</div>
-
 					</div>
-
 				</div>
-			</div>
 
-
-			<div class="call-action ba-1">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-7 padding-tb-15px">
-							<h2>Unbeatable Trucking and Transport Services</h2>
-							<div class="text">
-								<p><?php echo $truck_transport ?></p>
-							</div>
-						</div>
-						<div class="col-lg-5">
-							<div class="row">
-								<div class="col-lg-4 col-md-4 sm-mb-45px">
-									<a href="#" class="action-bottom layout-1">
-										<img src="assets/icons/small-icon-1.png" alt="">
-										<h4>Tell Friend</h4>
-									</a>
+				<div class="contact-modal">
+					<div class="background-grey-4 text-white">
+						<div class="padding-30px">
+							<h3 class="padding-bottom-15px">Get A Free Quote</h3>
+							<form>
+								<div class="form-row">
+									<div class="form-group col-md-12">
+										<label>Full Name</label>
+										<input type="text" class="form-control" id="inputName44" placeholder="Name">
+									</div>
+									<div class="form-group col-md-12">
+										<label>Email</label>
+										<input type="email" class="form-control" id="inputEmail44" placeholder="Email">
+									</div>
 								</div>
-								<div class="col-lg-4 col-md-4 sm-mb-45px">
-									<a href="#" class="action-bottom layout-1">
-										<img src="assets/icons/small-icon-2.png" alt="">
-										<h4>Read More</h4>
-									</a>
+								<div class="form-group">
+									<label>Message</label>
+									<textarea class="form-control" id="exampleFormControlTextarea11" rows="3"></textarea>
 								</div>
-								<div class="col-lg-4 col-md-4">
-									<a href="#" class="action-bottom layout-1">
-										<img src="assets/icons/small-icon-3.png" alt="">
-										<h4>Contact Us</h4>
-									</a>
-								</div>
-							</div>
+								<a href="#" class="btn-sm btn-lg btn-block background-main-color text-white text-center  text-uppercase rounded-0 padding-15px">SEND MESSAGE</a>
+							</form>
 						</div>
 					</div>
 				</div>
-			</div>
 
-			<div class="contact-modal">
-				<div class="background-grey-4 text-white">
-					<div class="padding-30px">
-						<h3 class="padding-bottom-15px">Get A Free Quote</h3>
-						<form>
-							<div class="form-row">
-								<div class="form-group col-md-12">
-									<label>Full Name</label>
-									<input type="text" class="form-control" id="inputName44" placeholder="Name">
-								</div>
-								<div class="form-group col-md-12">
-									<label>Email</label>
-									<input type="email" class="form-control" id="inputEmail44" placeholder="Email">
-								</div>
-							</div>
-							<div class="form-group">
-								<label>Message</label>
-								<textarea class="form-control" id="exampleFormControlTextarea11" rows="3"></textarea>
-							</div>
-							<a href="#" class="btn-sm btn-lg btn-block background-main-color text-white text-center  text-uppercase rounded-0 padding-15px">SEND MESSAGE</a>
-						</form>
-					</div>
-				</div>
 			</div>
 
 		</div>
-
 	</div>
 </div>
-</div>
-
 
 <div class="call-action ba-1">
 	<div class="container">
@@ -329,6 +262,7 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 		</div>
 	</div>
 </div>
+
 <?php
 include "./_templates/_footer.php";
 include "./_templates/_foot.php";
