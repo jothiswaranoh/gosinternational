@@ -9,6 +9,7 @@ From the smallest packages to the largest pieces of equipment, we handle every c
 Regardless of their size or nature, your items will be carried effectively and safely thanks to our complete approach.
 Allow us to be your dependable logistics partner, bringing comfort with each shipment.";
 
+$truck_transpot_title = "Unbeatable Trucking and Transport Services";
 $truck_transport = "Use our world-class shipping and transport services to deliver your goods quickly and effectively. 
 You can rely on us to deliver your things in pristine condition, on time, and to their intended location.";
 
@@ -25,7 +26,17 @@ $explore_facilities_content = "Our shipping services include ferry and cargo tra
 
 $warehouse_solution_content = "Explore the possibilities of Impeccable storage solution with the aid of our warehouse solutions. Our cutting-edge security and personalized inventory management offer a secure haven for your possessions that ensures efficiency and security at all times.";
 
+$get_quote_title = "Get A Free Quote";
 
+$cargo_transport_title = "Cargo Transportation";
+
+$location_title = "LOCATION";
+$location_in_title = "Location: ";
+$location_content = "18/4 Sippighat, Port Blair-Andaman & Nicobar-744105.";
+
+$call_center_title = "Call Center";
+$call_in_title = "Call Us: ";
+$call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 ?>
 
 <!-- Search  -->
@@ -48,7 +59,7 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 				</div>
 				<div class="col-lg-7">
 					<div class="padding-30px">
-						<h3 class="padding-bottom-15px">Get A Free Quote</h3>
+						<h3 class="padding-bottom-15px"><?php echo $get_quote_title?></h3>
 						<form>
 							<div class="form-row">
 								<div class="form-group col-md-6">
@@ -82,7 +93,7 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 <div class="page-title">
 	<div class="container">
 		<div class="padding-tb-120px">
-			<h1>Cargo Transportation</h1>
+			<h1><?php echo $cargo_transport_title?></h1>
 			<ol class="breadcrumb">
 				<li><a href="#">Home</a></li>
 				<li class="active">Cargo Transportation</li>
@@ -158,22 +169,22 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 					<div class="nile-widget contact-widget">
 						<div class="padding-30px">
 							<div class="margin-bottom-60px">
-								<h2 class="title">Location</h2>
+								<h2 class="title"><?php echo $location_title?></h2>
 								<div class="contact-info opacity-9">
 									<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
 									<div class="text">
-										<span class="title-in">Location :</span> <br>
-										<span class="font-weight-500 text-uppercase">US - Los Angeles</span>
+										<span class="title-in"><?php echo $location_in_title?></span> <br>
+										<span class="font-weight-500 text-uppercase"><?php echo $location_content?></span>
 									</div>
 								</div>
 							</div>
 							<div class="call_center">
-								<h2 class="title">Call Center</h2>
+								<h2 class="title"><?php echo $call_center_title?></h2>
 								<div class="contact-info opacity-9">
 									<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
 									<div class="text">
-										<span class="title-in">Call Us :</span><br>
-										<span class="font-weight-500 text-uppercase">00222123333019</span>
+										<span class="title-in"><?php echo $call_in_title?></span><br>
+										<span class="font-weight-500 text-uppercase"><?php echo $call_center_content?></span>
 									</div>
 								</div>
 							</div>
@@ -216,7 +227,7 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 padding-tb-15px">
-				<h2>Unbeatable Trucking and Transport Services</h2>
+				<h2><?php echo $truck_transpot_title?></h2>
 				<div class="text">
 					<p><?php echo $truck_transport ?></p>
 				</div>
