@@ -12,3 +12,5 @@
 | Truck icons                  | Truck icons also need to be removed and replaced                                                         | Not completed |
 | Our Services & Sight page   | Clicking any item in the list moves to the top of the home page without performing any other action      | Not completed |
 | Tell friend, Read more & contact us | Clicking moves to the top of the home page                                                              | Not completed |
+
+Waiting for PR.
