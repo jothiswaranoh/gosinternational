@@ -154,22 +154,6 @@ $warehouse_solution_content = "Explore the possibilities of Impeccable storage s
 			</div>
 
 			<div class="col-lg-3">
-
-				<div class="background-main-color margin-bottom-40px">
-					<div class="services-list">
-						<ul>
-							<li><a href="service-single.html">Air Freight</a></li>
-							<li><a href="service-single.html">Ocean Freight</a></li>
-							<li><a href="service-single.html">Packaging and Storage</a></li>
-							<li class="active"><a href="service-single.html">Cargo Transportation </a></li>
-							<li><a href="service-single.html">Fast Delivery</a></li>
-							<li><a href="service-single.html">Railroad Transportation</a></li>
-						</ul>
-					</div>
-				</div>
-
-
-
 				<div class="background-white margin-bottom-40px">
 					<div class="nile-widget contact-widget">
 						<div class="padding-30px">
