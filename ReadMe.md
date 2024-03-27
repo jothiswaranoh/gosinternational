@@ -1,14 +1,14 @@
-### :ship: GO INTERNATIONAL 
+### :ship: GO INTERNATIONAL - Bug Fixes
 
-| Bugs      | Status     |
-|:-----------------:|:-----------------:|
-|Contact us button|not moving to the contact page when clicked|
-|Home button under each sub pages|not moving to the home page when clicked|
-|Airplane icons|since its a waterway related transport air plane symbols has to be removed from all parts of the page|
-|Show all button at home|it simply just moves to the top of the home when clicked|
-|Cart button at home|the cart button when clicked shows the list only after which no operations are working like view cart and check out|
-|Map| The map is'nt showing the correct location|
-|Social media buttons|All those buttons stays the same when clicked|
-|Truck icons| truck icons also has to be removed and replace|
-|Our Services & Sight page|if any item in the list is clicked it moves to the top of the home page and no other action is performed|
-|Tell friend,Read more & contact us|when clicked moves to the top if the home page|
+| Position                      | Bugs                                                                                                    | Status        |
+|-------------------------------|---------------------------------------------------------------------------------------------------------|---------------|
+| Contact us button            | Not moving to the contact page when clicked                                                            | Not completed |
+| Home button under each sub pages | Not moving to the home page when clicked                                                         | Not completed |
+| Airplane icons               | Since it's a waterway-related transport, airplane symbols need to be removed from all parts of the page | Not completed |
+| Show all button at home      | Simply moves to the top of the home when clicked                                                        | Not completed |
+| Cart button at home          | The cart button, when clicked, shows the list but view cart and checkout operations are not working      | Not completed |
+| Map                           | The map isn't showing the correct location                                                               | Not completed |
+| Social media buttons         | Buttons remain the same when clicked                                                                      | Not completed |
+| Truck icons                  | Truck icons also need to be removed and replaced                                                         | Not completed |
+| Our Services & Sight page   | Clicking any item in the list moves to the top of the home page without performing any other action      | Not completed |
+| Tell friend, Read more & contact us | Clicking moves to the top of the home page                                                              | Not completed |
