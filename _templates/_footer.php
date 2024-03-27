@@ -44,7 +44,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
           <h2 class="title"><?php echo $site_pages_title?></h2>
           <ul class="footer-menu">
             <li><a href="#">Marine Cargo Transportation </a></li>
-            <li><a href="#">cruiser </a></li>
+            <li><a href="#">Cruiser </a></li>
             <li><a href="#">Ocean Freight </a></li>
             <li><a href="#">Packaging & Storage </a></li>
 
