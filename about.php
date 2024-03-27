@@ -135,7 +135,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
                         </a>
                     </div>
                     <div class="col-lg-4 col-md-4">
-                        <a href="#" class="action-bottom layout-1">
+                        <a href="contact.php" class="action-bottom layout-1">
                             <img src="assets/icons/small-icon-3.png" alt="">
                             <h4>Contact Us</h4>
                         </a>
@@ -204,7 +204,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
         </div>
 
         <div class="text-center margin-top-35px">
-            <a href="#" class="nile-bottom md">Show all <i class="fa fa-arrow-right"></i> </a>
+            <a href="service.php" class="nile-bottom md">Show all <i class="fa fa-arrow-right"></i> </a>
         </div>
 
     </div>

@@ -9,6 +9,14 @@ include "./_templates/_slider.php";
 include "./_templates/_index_about.php";
 include "./_templates/_index_services.php";
 include "./_templates/_news.php";
+
+$ocean_freight_title = "Ocean Freight";
+$ocean_freight_content = "Seafaring reliability: Ocean freight forms the backbone of global exchange.";
+
+$truck_transpot_title = "Unbeatable Shipping and Transport Services";
+$truck_transport_content = "Efficiently deliver your goods with our unbeatable shipping and transport
+services. Trust us to get your products where they need to be, on time and in perfect
+condition.";
 ?>
 
 <div class="service-section-1 container">
@@ -39,10 +47,10 @@ include "./_templates/_news.php";
       <div class="service layout-1">
         <div class="clearfix">
           <div class="icon"><img src="assets/icons/service-light-3.png" alt=""></div>
-          <a href="#" class="title">Ocean Freight</a>
+          <a href="#" class="title"><?php echo $ocean_freight_title?></a>
         </div>
         <div class="dis clearfix">
-          <p>Seafaring reliability: Ocean freight forms the backbone of global exchange.</p>
+          <p><?php echo $ocean_freight_content?></p>
         </div>
       </div>
     </div>
@@ -53,10 +61,8 @@ include "./_templates/_news.php";
   <div class="container">
     <div class="row">
       <div class="col-lg-7 padding-tb-15px">
-        <h2>Unbeatable Shipping and Transport Services</h2>
-        <div class="text">"Efficiently deliver your goods with our unbeatable shipping and transport
-          services. Trust us to get your products where they need to be, on time and in perfect
-          condition."</div>
+        <h2><?php echo $truck_transpot_title?></h2>
+        <div class="text"><?php echo $truck_transport_content?></div>
       </div>
       <div class="col-lg-5">
         <div class="row">
@@ -73,7 +79,7 @@ include "./_templates/_news.php";
             </a>
           </div>
           <div class="col-lg-4 col-md-4">
-            <a href="#" class="action-bottom layout-1">
+            <a href="contact.php" class="action-bottom layout-1">
               <img src="assets/icons/small-icon-3.png" alt="">
               <h4>Contact Us</h4>
             </a>

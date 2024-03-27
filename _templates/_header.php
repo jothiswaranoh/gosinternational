@@ -93,7 +93,7 @@ include ("./_templates/_header_variables.php");
                                         <div class="media-body">
                                             <a href="#" class="close"><i class="fa fa-window-close"></i></a>
                                             <h5 class="mt-0"><a href="#"><?php echo $cargo_cart_title?></a></h5>
-                                            <h6 class="mt-0 font-2"><?php echo $cargo_transport_amnt?></h6>
+                                            <h6 class="mt-0 font-2"><?php echo $cargo_delivery_amnt?></h6>
                                         </div>
                                     </div>
 
@@ -104,7 +104,7 @@ include ("./_templates/_header_variables.php");
                                         <div class="media-body">
                                             <a href="#" class="close"><i class="fa fa-window-close"></i></a>
                                             <h5 class="mt-0"><a href="#"><?php echo $air_freight_cart_title?></a></h5>
-                                            <h6 class="mt-0 font-2"><?php echo $$air_freight_delivery_amnt?></h6>
+                                            <h6 class="mt-0 font-2"><?php echo $air_freight_delivery_amnt?></h6>
                                         </div>
                                     </div>
 
@@ -122,11 +122,11 @@ include ("./_templates/_header_variables.php");
                                     <div class="padding-0px">
                                         <div class="cart-total background-main-color padding-lr-30px padding-tb-10px text-white">
                                             <div class="desc"><?php echo $sub_total_title?></div>
-                                            <div class="price"><strong><?php echo $sub_total_title?></strong></div>
+                                            <div class="price"><strong><?php echo $sub_total_amnt?></strong></div>
                                             <div class="clearfix"></div>
                                         </div>
-                                        <a href="#" class="btn btn-primary btn-lg btn-block"><?php $view_cart?></a>
-                                        <a href="#" class="btn btn-outline-primary btn-lg btn-block"><?php $checkout?></a>
+                                        <a href="#" class="btn btn-primary btn-lg btn-block"><?php echo $view_cart?></a>
+                                        <a href="#" class="btn btn-outline-primary btn-lg btn-block"><?php echo $checkout?></a>
                                     </div>
                                 </div>
                             </div>

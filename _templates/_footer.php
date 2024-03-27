@@ -1,16 +1,16 @@
 <?php 
 $service_title = "Our Services";
 $site_pages_title = "Site Pages";
-$locations_title = "Locations";
+$locations_title = "Location";
 
-$location_1 = "Location :";
+$location_1 = "Location : Branch Off.";
 $location_1_content = "18/4 Sippighat, Port Blair-Andaman & Nicobar-744105.";
 
-$location_2_title = "Locations : Regd. Off.";
+$location_2_title = "Location : Regd. Off.";
 $location_2 = "Location : Regd. Off.";
 $location_2_content = "W499, 3rd Avenue C-Sector, Anna Nagar West, Chennai, Tamil Nadu - 600101";
 
-$location_3_title = "Locations : Corp. Off.";
+$location_3_title = "Location : Corp. Off.";
 $location_3 = "Location : Corp. Off.";
 $location_3_content = "W760, 3A, 3rd Floor, 4th Avenue, Anna Nagar West extension, Chennai, Tamil Nadu - 600101";
 
