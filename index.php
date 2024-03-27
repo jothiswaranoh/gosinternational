@@ -16,7 +16,7 @@ include "./_templates/_news.php";
     <div class="col-md-4">
       <div class="service layout-1">
         <div class="clearfix">
-          <div class="icon"><img src="assets/icons/Road_Freight.png" alt=""></div>
+          <div class="icon"><img src="assets/icons/service-light-1.png" alt=""></div>
           <a href="#" class="title">Road Freight</a>
         </div>
         <div class="dis clearfix">
@@ -27,7 +27,7 @@ include "./_templates/_news.php";
     <div class="col-md-4">
       <div class="service layout-1">
         <div class="clearfix">
-          <div class="icon"><img src="assets/icons/Air_Freight.png" alt=""></div>
+          <div class="icon"><img src="assets/icons/service-light-2.png" alt=""></div>
           <a href="#" class="title">Air Freight</a>
         </div>
         <div class="dis clearfix">
@@ -38,7 +38,7 @@ include "./_templates/_news.php";
     <div class="col-md-4">
       <div class="service layout-1">
         <div class="clearfix">
-          <div class="icon"><img src="assets/icons/Ocean_Freight.png" alt=""></div>
+          <div class="icon"><img src="assets/icons/service-light-3.png" alt=""></div>
           <a href="#" class="title">Ocean Freight</a>
         </div>
         <div class="dis clearfix">
