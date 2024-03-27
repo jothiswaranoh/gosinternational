@@ -6,6 +6,10 @@ include "./_templates/_search.php";
 $contact_us = "
 Experience unparalleled service with Green Ocean Sea International Private Limited. 
 Contact us now to embark on a seamless logistics journey and discover the difference our expertise can make in simplifying your transportation and warehousing needs";
+;
+$phone_num_1 = "+91 44313 15352 ";
+$phone_num_2 = "+91 99320 88788";
+$addr_content = "18/4 Sippighat, Port Blair-Andaman & Nicobar-744105";
 ?>
 
 <div class="page-title">
@@ -29,12 +33,10 @@ Contact us now to embark on a seamless logistics journey and discover the differ
       <div class="col-lg-6 sm-mb-45px">
         <p> <?php echo $contact_us ?></p>
         <h5>Phone :</h5>
-        <span class="d-block"><i class="fa fa-phone text-main-color margin-right-10px" aria-hidden="true"></i> +222 333
-          019</span>
-        <span class="d-block sm-mb-30px"><i class="fa fa-mobile text-main-color margin-right-10px" aria-hidden="true"></i> +222 333 019</span>
+        <span class="d-block"><i class="fa fa-phone text-main-color margin-right-10px" aria-hidden="true"></i> <?php echo $phone_num_1?></span>
+        <span class="d-block sm-mb-30px"><i class="fa fa-mobile text-main-color margin-right-10px" aria-hidden="true"></i><?php echo $phone_num_2?></span>
         <h5 class="margin-top-20px">Address :</h5>
-        <span class="d-block sm-mb-30px"><i class="fa fa-map text-main-color margin-right-10px" aria-hidden="true"></i>
-          NewYork 1234 Main St </span>
+        <span class="d-block sm-mb-30px"><i class="fa fa-map text-main-color margin-right-10px" aria-hidden="true"></i><?php echo $addr_content?> </span>
         <h5 class="margin-top-20px">Email :</h5>
         <span class="d-block sm-mb-30px"><i class="fa fa-envelope-open text-main-color margin-right-10px" aria-hidden="true"></i> info@yoursite.com </span>
       </div>
@@ -90,7 +92,7 @@ Contact us now to embark on a seamless logistics journey and discover the differ
                 <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
                 <div class="text">
                   <span class="title-in">Location :</span> <br>
-                  <span class="font-weight-500 text-uppercase">US - Los Angeles</span>
+                  <span class="font-weight-500 text-uppercase"><?php echo $addr_content?></span>
                 </div>
               </div>
             </div>
@@ -101,7 +103,7 @@ Contact us now to embark on a seamless logistics journey and discover the differ
                 <div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
                 <div class="text">
                   <span class="title-in">Call Us :</span><br>
-                  <span class="font-weight-500 text-uppercase">00222123333019</span>
+                  <span class="font-weight-500 text-uppercase"><?php echo $phone_num_2?></span>
                 </div>
               </div>
             </div>
