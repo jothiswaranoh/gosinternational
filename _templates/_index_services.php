@@ -1,3 +1,25 @@
+<?php 
+$our_service_title = "Our Service";
+$our_service_content_ ="Experience reliable and efficient marine cargo services worldwide.";
+
+$marine_cargo_title = "Marine Cargo Transportation";
+$marine_cargo_content = "Where your precious goods are transported with the utmost care and efficiency.";
+
+$cruiser_title = "Cruiser";
+$cruiser_content = "For those looking for some entertainment, we have a variety of activities
+                    available on board. From live music performances to water sports, there's something for
+                    everyone to enjoy.";
+
+$ocean_freight_title_ = "Ocean Freight";
+$ocean_freight_content_ = "Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.";
+
+$pack_store_title_ = "Packaging & Storage";
+$pack_store_content_ = "Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure
+                        in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage
+                        option.";
+
+$show_all ="Show all";
+?>
 <div class="section padding-tb-100px section-ba-1">
   <div class="container">
     <!-- Title -->
@@ -5,8 +27,8 @@
       <div class="row justify-content-center">
         <div class="col-lg-7">
           <div class="icon text-main-color"><i class="fa fa-truck"></i></div>
-          <div class="h2">Our Service</div>
-          <div class="des">Experience reliable and efficient marine cargo services worldwide. </div>
+          <div class="h2"><?php echo $our_service_title?></div>
+          <div class="des"><?php echo $our_service_content_?></div>
         </div>
       </div>
     </div>
@@ -15,8 +37,8 @@
       <div class="col-lg-3 col-md-6">
         <div class="service-icon-box">
           <div class="icon"><img src="assets/icons/service-dark-1.png" alt=""></div>
-          <a href="#" class="title h2">Marine Cargo Transportation</a>
-          <div class="des">Where your precious goods are transported with the utmost care and efficiency.
+          <a href="#" class="title h2"><?php echo $marine_cargo_title?></a>
+          <div class="des"> <?php echo $marine_cargo_content?>
           </div>
         </div>
       </div>
@@ -24,19 +46,17 @@
       <div class="col-lg-3 col-md-6">
         <div class="service-icon-box">
           <div class="icon"><img src="assets/icons/service-dark-2.png" alt=""></div>
-          <a href="#" class="title h2">cruiser</a>
-          <div class="des">For those looking for some entertainment, we have a variety of activities
-            available on board. From live music performances to water sports, there's something for
-            everyone to enjoy.</div>
+          <a href="#" class="title h2"><?php echo $cruiser_title?></a>
+          <div class="des"><?php echo $cruiser_content?></div>
         </div>
       </div>
 
       <div class="col-lg-3 col-md-6">
         <div class="service-icon-box">
           <div class="icon"><img src="assets/icons/service-dark-3.png" alt=""></div>
-          <a href="#" class="title h2">Ocean Freight</a>
+          <a href="#" class="title h2"><?php echo $ocean_freight_title_?></a>
           <div class="des">
-            <p>Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.</p>
+          <?php echo $ocean_freight_content_?>
           </div>
         </div>
       </div>
@@ -44,18 +64,16 @@
       <div class="col-lg-3 col-md-6">
         <div class="service-icon-box">
           <div class="icon"><img src="assets/icons/service-dark-4.png" alt=""></div>
-          <a href="#" class="title h2">Packaging & Storage</a>
+          <a href="#" class="title h2"><?php echo $pack_store_title_?></a>
           <div class="des">
-            <p>Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure
-              in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage
-              option.</p>
+          <?php echo $pack_store_content_?>
           </div>
         </div>
       </div>
     </div>
 
     <div class="text-center">
-      <a href="#" class="nile-bottom md">Show all <i class="fa fa-arrow-right"></i> </a>
+      <a href="#" class="nile-bottom md"><?php echo $show_all?><i class="fa fa-arrow-right"></i> </a>
     </div>
   </div>
 </div>
