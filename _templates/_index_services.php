@@ -1,4 +1,4 @@
-<?php 
+<?php
 $our_service_title = "Our Service";
 $our_service_content_ ="Experience reliable and efficient marine cargo services worldwide.";
 
@@ -73,7 +73,7 @@ $show_all ="Show all";
     </div>
 
     <div class="text-center">
-      <a href="#" class="nile-bottom md"><?php echo $show_all?><i class="fa fa-arrow-right"></i> </a>
+      <a href="service.php" class="nile-bottom md"><?php echo $show_all?><i class="fa fa-arrow-right"></i> </a>
     </div>
   </div>
 </div>
