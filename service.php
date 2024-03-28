@@ -39,16 +39,6 @@ $call_in_title = "Call Us: ";
 $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 ?>
 
-<!-- Search  -->
-<div id="search">
-	<button type="button" class="close">×</button>
-	<form class="clearfix d-block">
-		<input type="search" value="" placeholder="Search for . . . ." />
-		<button type="submit" class="btn btn-primary">Search</button>
-	</form>
-</div>
-<!-- // Search  -->
-
 <!-- Get A Quote  -->
 <div class="modal contact-modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-hidden="true">
 	<div class="modal-dialog modal-lg">
@@ -59,7 +49,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 				</div>
 				<div class="col-lg-7">
 					<div class="padding-30px">
-						<h3 class="padding-bottom-15px"><?php echo $get_quote_title?></h3>
+						<h3 class="padding-bottom-15px"><?php echo $get_quote_title ?></h3>
 						<form>
 							<div class="form-row">
 								<div class="form-group col-md-6">
@@ -93,7 +83,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 <div class="page-title">
 	<div class="container">
 		<div class="padding-tb-120px">
-			<h1><?php echo $cargo_transport_title?></h1>
+			<h1><?php echo $cargo_transport_title ?></h1>
 			<ol class="breadcrumb">
 				<li><a href="#">Home</a></li>
 				<li class="active">Cargo Transportation</li>
@@ -103,7 +93,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 </div>
 
 
-<div class="padding-tb-100px">
+<div class="padding-tb-30px">
 	<div class="container">
 		<div class="row">
 
@@ -169,22 +159,22 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 					<div class="nile-widget contact-widget">
 						<div class="padding-30px">
 							<div class="margin-bottom-60px">
-								<h2 class="title"><?php echo $location_title?></h2>
+								<h2 class="title"><?php echo $location_title ?></h2>
 								<div class="contact-info opacity-9">
 									<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
 									<div class="text">
-										<span class="title-in"><?php echo $location_in_title?></span> <br>
-										<span class="font-weight-500 text-uppercase"><?php echo $location_content?></span>
+										<span class="title-in"><?php echo $location_in_title ?></span> <br>
+										<span class="font-weight-500 text-uppercase"><?php echo $location_content ?></span>
 									</div>
 								</div>
 							</div>
 							<div class="call_center">
-								<h2 class="title"><?php echo $call_center_title?></h2>
+								<h2 class="title"><?php echo $call_center_title ?></h2>
 								<div class="contact-info opacity-9">
 									<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
 									<div class="text">
-										<span class="title-in"><?php echo $call_in_title?></span><br>
-										<span class="font-weight-500 text-uppercase"><?php echo $call_center_content?></span>
+										<span class="title-in"><?php echo $call_in_title ?></span><br>
+										<span class="font-weight-500 text-uppercase"><?php echo $call_center_content ?></span>
 									</div>
 								</div>
 							</div>
@@ -227,7 +217,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 padding-tb-15px">
-				<h2><?php echo $truck_transpot_title?></h2>
+				<h2><?php echo $truck_transpot_title ?></h2>
 				<div class="text">
 					<p><?php echo $truck_transport ?></p>
 				</div>

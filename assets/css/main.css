@@ -22,8 +22,9 @@
   --color-default: #0a0d13;
   --color-primary: #0d42ff;
   --color-secondary: #0e1d34;
-  --purple: rebeccapurple;
-  --yellow: #f5de99;
+  --primary-blue: #009dc4;
+    --primary-black: #0e5690;
+    --rebeccapurple: rebeccapurple;
     --orange: #4d473f;
     --black: #242d49;
     --gray: rgba(36, 45, 73, 0.65);
@@ -39,9 +40,10 @@
     --theme_color: #3ba896;
     --cardColor: rgb(175, 232, 178, 0.782);
     --blueColor: rgb(197, 255, 255);
-    --darkBlue: rgb(100, 138, 182);
+    --darkBlue: #A7C7E7;
     --orange: #f7ac97;
     --darkColor: #506160;
+    --white:#fff;
     --color: linear-gradient(98.63deg, #506160 0%, #f7ac97 100%);
 
 }
@@ -86,7 +88,7 @@ h6 {
 # Sections & Section Header
 --------------------------------------------------------------*/
 section {
-  padding: 80px 0;
+  padding: 40px 0;
   overflow: hidden;
 }
 
@@ -507,7 +509,7 @@ section {
     font-family: var(--font-primary);
     font-size: 16px;
     font-weight: 500;
-    color: var(--theme_color);
+    color: var(--primary-blue);
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -874,7 +876,7 @@ section {
 # Features Section
 --------------------------------------------------------------*/
 .features {
-  padding-top: 80px;
+  padding-top: 40px;
 }
 
 .features .features-item+.features-item {

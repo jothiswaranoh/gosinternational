@@ -30,7 +30,7 @@ $socialMediaLinks = array(
                     <div class="position-relative">
                         <div class="row">
                             <div class="col-lg-3 col-md-12">
-                                <a id="logo" href="index.php" class="d-inline-block margin-tb-15px w-25"><img src="assets/img/logo-1.png" alt=""></a>
+                                <a id="logo" href="index.php" class="d-inline-block "><img src="assets/img/logo-1.png" class="logo-img" alt=""></a>
                                 <a class="mobile-toggle padding-15px background-second-color border-radius-3" href="#"><i class="fa fa-bars"></i></a>
                             </div>
                             <div class="col-lg-7 col-md-12 position-inherit">
