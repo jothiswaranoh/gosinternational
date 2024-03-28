@@ -1,11 +1,14 @@
+<?php 
+$truck_transport_content = "Efficiently deliver your goods with our unbeatable shipping and transport
+services. Trust us to get your products where they need to be, on time and in perfect
+condition.";
+?>
 <div class="call-action ba-1">
   <div class="container">
     <div class="row">
       <div class="col-lg-7 padding-tb-15px">
         <h2>Unbeatable Shipping and Transport Services</h2>
-        <div class="text">"Efficiently deliver your goods with our unbeatable shipping and transport
-          services. Trust us to get your products where they need to be, on time and in perfect
-          condition."</div>
+        <div class="text"><?php echo $truck_transport_content?></div>
       </div>
       <div class="col-lg-5">
         <div class="row">
