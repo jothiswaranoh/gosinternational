@@ -108,7 +108,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
     </div>
 </div>
 
-<!--============= //About Us =============-->
+<!--============= // About Us =============-->
 <?php
 include "./_templates/_letter.php";
 ?>
