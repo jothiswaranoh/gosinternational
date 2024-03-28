@@ -1,16 +1,23 @@
-### :ship: GO INTERNATIONAL - Bug Fixes
 
-| Position                      | Bugs                                                                                                    | Status        |
-|-------------------------------|---------------------------------------------------------------------------------------------------------|---------------|
-| Contact us button            | Not moving to the contact page when clicked                                                            | Not completed |
-| Home button under each sub pages | Not moving to the home page when clicked                                                         | Not completed |
-| Airplane icons               | Since it's a waterway-related transport, airplane symbols need to be removed from all parts of the page | Not completed |
-| Show all button at home      | Simply moves to the top of the home when clicked                                                        | Not completed |
-| Cart button at home          | The cart button, when clicked, shows the list but view cart and checkout operations are not working      | Not completed |
-| Map                           | The map isn't showing the correct location                                                               | Not completed |
-| Social media buttons         | Buttons remain the same when clicked                                                                      | Not completed |
-| Truck icons                  | Truck icons also need to be removed and replaced                                                         | Not completed |
-| Our Services & Sight page   | Clicking any item in the list moves to the top of the home page without performing any other action      | Not completed |
-| Tell friend, Read more & contact us | Clicking moves to the top of the home page                                                              | Not completed |
-
-Waiting for PR.
+|Page        |Bugs      | Status     |
+|:-----------------:|:-----------------:|:-----------------:|
+|Home |Contact us button|not moving to the contact page when clicked|
+|     |Home button under each sub pages|not moving to the home page when clicked|
+|     |Search & Cart|no icons for search and cart
+|     |Social media buttons|All those buttons stays the same when clicked|
+|     |information box on top|All boxes has the same heading "ocean friedght"|
+|     |who are we & read more button|no information is displayed plus the button has no name on it|
+|About us|the home icon below the "about us"|button is'nt working|
+|     |tell friend/read more/contact us|the above part has come above the our services section|
+|     |information box on top|All boxes has the same heading "ocean friedght"|
+|Services|the home icon below the "cargo transportation"|button is'nt working|
+|        |tell friend/read more/contact us|buttons are'nt working|
+|Contact us|tell friend/read more/contact us (footer section)|fotter part containing the above is missing|
+|          |Get a quote button|button is'nt moving to quotation form|
+|History|the template with heading "history"|picture with the heading as "history" is missing|
+|       |tell friend/read more/contact us (footer section)|fotter part containing the above is missing|
+|       |Get a quote button|button is'nt moving to quotation form|
+|Footer Section|tell friend & contact us| both directs the same contact us page|
+|              |our services & site pages| both moves to the top of the current page|
+|              |locations & lists|alingments are proper|
+|              |all rights reserved part|stays the same in grey colour|
