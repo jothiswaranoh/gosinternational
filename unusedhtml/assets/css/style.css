@@ -1700,7 +1700,7 @@ a.action-bottom:hover {
 }
 .nile-widget.contact-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #4a4a4a;
+  color: var(--primary-blue);
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -1713,7 +1713,7 @@ a.action-bottom:hover {
   margin-right: 5px;
 }
 .nile-widget.contact-widget .contact-info {
-  color: #4a4a4a;
+  color: var(--primary-blue);
 }
 .nile-widget.contact-widget .contact-info .icon {
   float: left;
@@ -1939,7 +1939,7 @@ footer.layout-light {
   background-color: #fff;
 }
 footer.layout-light .contact-info {
-  color: #4a4a4a;
+  color: var(--primary-blue);
 }
 footer.layout-light .contact-info .icon {
   float: left;
@@ -1966,7 +1966,7 @@ footer.layout-light .nile-widget.widget_nav_menu ul {
 }
 footer.layout-light .nile-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #4a4a4a;
+  color: var(--primary-blue);
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -1982,10 +1982,10 @@ footer.layout-light .copy-right {
   background-color: #f1efef;
 }
 footer.layout-light .copy-right .copy-right-text {
-  color: #4a4a4a;
+  color: var(--primary-blue);
 }
 footer.layout-light .copy-right .copy-right-text a {
-  color: #4a4a4a;
+  color: var(--primary-blue);
   text-decoration: none;
 }
 footer.layout-light .copy-right ul.social-media li {
@@ -1993,10 +1993,10 @@ footer.layout-light .copy-right ul.social-media li {
 }
 footer.layout-light .about-us {
   font-size: 13px;
-  color: #4a4a4a;
+  color: var(--primary-blue);
 }
 footer.layout-dark {
-  background-color: #4a4a4a;
+  background-color: var(--primary-blue);
 }
 footer.layout-dark .contact-info {
   color: #fff;
@@ -2026,7 +2026,7 @@ footer.layout-dark .nile-widget.widget_nav_menu ul {
 }
 footer.layout-dark .nile-widget.widget_nav_menu ul li a {
   text-decoration: none;
-  color: #b1b1b1;
+  color: var(--white);
   display: block;
   padding: 8px 0px 8px 0px;
   border-bottom: 1px solid rgba(238, 238, 238, 0.1);
@@ -6908,7 +6908,7 @@ video {
   padding-bottom: 99px;
 }
 
-.padding-tb-100px {
+.padding-tb-50px {
   padding-top: 100px;
   padding-bottom: 100px;
 }

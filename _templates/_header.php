@@ -79,65 +79,9 @@ include ("./_templates/_header_variables.php");
                                         </a></li>
                                 <?php endforeach; ?>
                             </ul>
-
-                            <div class="d-none d-xl-block pull-right model-link margin-top-15px">
-                                <a id="cart-link" class="model-link margin-right-25px text-white opacity-hover-8" href="#">
-                                    <span>3</span><i class="fa fa-shopping-cart"></i>
-                                </a>
-                                <div class="cart-model">
-
-                                    <div class="media">
-                                        <a href="#">
-                                            <img class="d-flex align-self-start mr-3 width-50px" src="assets/img/cart-1.jpg" alt="Generic placeholder image">
-                                        </a>
-                                        <div class="media-body">
-                                            <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#"><?php echo $cargo_cart_title?></a></h5>
-                                            <h6 class="mt-0 font-2"><?php echo $cargo_transport_amnt?></h6>
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <a href="#">
-                                            <img class="d-flex align-self-start mr-3 width-50px" src="assets/img/cart-2.jpg" alt="Generic placeholder image">
-                                        </a>
-                                        <div class="media-body">
-                                            <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#"><?php echo $air_freight_cart_title?></a></h5>
-                                            <h6 class="mt-0 font-2"><?php echo $$air_freight_delivery_amnt?></h6>
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <a href="#">
-                                            <img class="d-flex align-self-start mr-3 width-50px" src="assets/img/cart-3.jpg" alt="Generic placeholder image">
-                                        </a>
-                                        <div class="media-body">
-                                            <a href="#" class="close"><i class="fa fa-window-close"></i></a>
-                                            <h5 class="mt-0"><a href="#"><?php echo $pack_store_title?></a></h5>
-                                            <h6 class="mt-0 font-2"><?php echo $pack_store_amnt?></h6>
-                                        </div>
-                                    </div>
-
-                                    <div class="padding-0px">
-                                        <div class="cart-total background-main-color padding-lr-30px padding-tb-10px text-white">
-                                            <div class="desc"><?php echo $sub_total_title?></div>
-                                            <div class="price"><strong><?php echo $sub_total_title?></strong></div>
-                                            <div class="clearfix"></div>
-                                        </div>
-                                        <a href="#" class="btn btn-primary btn-lg btn-block"><?php $view_cart?></a>
-                                        <a href="#" class="btn btn-outline-primary btn-lg btn-block"><?php $checkout?></a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="d-none d-xl-block search-link pull-right model-link margin-top-15px">
-                                <a id="search-header" class="model-link margin-right-0px text-white opacity-hover-8" href="#search">
-                                    <i class="fa fa-search"></i>
-                                </a>
-                            </div>
                         </div>
                         <div class="col-lg-2 col-md-12  d-none d-lg-block">
-                            <a data-toggle="modal" data-target=".bd-example-modal-lg" href="#" class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color  box-shadow float-right padding-lr-20px margin-left-30px d-block">
+                            <a data-toggle="modal" data-target=".bd-example-modal-lg" href="contact.php" class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color  box-shadow float-right padding-lr-20px margin-left-30px d-block">
                                 <i class="fa fa-envelope-o margin-right-10px"></i>
                                 <?php echo $get_a_quote?>
                             </a>

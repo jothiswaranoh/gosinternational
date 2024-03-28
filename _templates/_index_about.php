@@ -20,7 +20,7 @@ $warehouse_content = "Explore the possibilities of Impeccable storage solution 
                       Our cutting-edge security and personalized inventory management offer a secure haven for your possessions that ensures efficiency and security at all times.";
 
 $pack_nd_store_title = "Packaging & Storage";
-$pack_nd_store_content ="Your cargo is in safe hands at GOS's warehouses, whether it be large equipment or delicate goods. You could feel secure
+$pack_nd_store_content = "Your cargo is in safe hands at GOS's warehouses, whether it be large equipment or delicate goods. You could feel secure
                          in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage
                          option.";
 
@@ -81,30 +81,30 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
 
         <div class="row">
           <div class="col-sm-6">
-            <a href="#"><img src="assets/img/gabriel-lucindo-jwIBWTvXExM-unsplash.jpg" alt=""></a>
+            <img src="assets/img/gabriel-lucindo-jwIBWTvXExM-unsplash.jpg" alt="">
           </div>
           <div class="col-sm-6">
             <div class="cart-service background-main-color">
-              <div class="icon"><img src="assets/icons/service-light-2.png" alt=""></div>
-              <h2><?php echo $pack_nd_store_title?></h2>
+              <div class="icon"><img src="assets/icons/service-light-4.png" alt=""></div>
+              <h2><?php echo $pack_nd_store_title ?></h2>
               <hr>
               <div class="text">
-                <p><?php echo $pack_nd_store_content?></p>
+                <p><?php echo $pack_nd_store_content ?></p>
               </div>
             </div>
           </div>
           <div class="col-sm-6">
             <div class="cart-service background-main-color">
               <div class="icon"><img src="assets/icons/service-light-3.png" alt=""></div>
-              <h2><?php echo $ocean_freight_title?></h2>
+              <h2><?php echo $ocean_freight_title ?></h2>
               <hr>
               <div class="text">
-                <p> <?php echo $ocean_freight_content?></p>
+                <p> <?php echo $ocean_freight_content ?></p>
               </div>
             </div>
           </div>
           <div class="col-sm-6">
-            <a href="#"><img src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" width="250px" height="250px" alt=""></a>
+          <img src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" alt="">
           </div>
         </div>
 

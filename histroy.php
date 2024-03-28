@@ -37,7 +37,7 @@ $aboutSections = array(
 
 
 ?>
-<section id="call-to-action" class="call-to-action">
+<!-- <section id="call-to-action" class="call-to-action">
   <div class="container aos-init aos-animate" data-aos="zoom-out">
 
     <div class="row justify-content-center">
@@ -49,7 +49,7 @@ $aboutSections = array(
     </div>
 
   </div>
-</section>
+</section> -->
 <!-- ======= Features Section ======= -->
 
 
@@ -61,7 +61,7 @@ $aboutSections = array(
       <div class="col-md-5">
         <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
       </div>
-      <div class="col-md-7">
+      <div class="col-md-7 padding-top-16px">
         <h3><?php echo $aboutSections[0]["title"]; ?></h3>
         <p class="fst-italic"><?php echo $aboutSections[0]["content"]; ?></p>
       </div>
@@ -71,7 +71,7 @@ $aboutSections = array(
       <div class="col-md-5 order-1 order-md-2">
         <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
       </div>
-      <div class="col-md-7 order-2 order-md-1">
+      <div class="col-md-7 order-2 order-md-1 padding-top-16px">
         <h3><?php echo $aboutSections[1]["title"]; ?></h3>
         <p class="fst-italic"><?php echo $aboutSections[1]["content"]; ?></p>
       </div>
@@ -81,7 +81,7 @@ $aboutSections = array(
       <div class="col-md-5">
         <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
       </div>
-      <div class="col-md-7">
+      <div class="col-md-7 padding-top-16px">
         <h3><?php echo $aboutSections[2]["title"]; ?></h3>
         <p><?php echo $aboutSections[2]["content"]; ?></p>
       </div>
@@ -91,7 +91,7 @@ $aboutSections = array(
       <div class="col-md-5 order-1 order-md-2">
         <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
       </div>
-      <div class="col-md-7 order-2 order-md-1">
+      <div class="col-md-7 order-2 order-md-1 padding-top-16px">
         <h3><?php echo $aboutSections[3]["title"]; ?></h3>
         <p class="fst-italic"><?php echo $aboutSections[3]["content"]; ?></p>
       </div>
@@ -104,10 +104,10 @@ $aboutSections = array(
   <div class="container" data-aos="fade-up">
 
     <div class="row gy-4">
-      <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
+      <!-- <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
         <img src="assets/img/about.jpg" class="img-fluid" alt="">
         <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
-      </div>
+      </div> -->
       <div class="col-lg-6 content order-last  order-lg-first">
         <h3><?php echo $aboutSections[4]["title"]; ?></h3>
         <p><?php echo $aboutSections[4]["content"]; ?></p>

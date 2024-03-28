@@ -26,7 +26,7 @@ We handle your logistical needs with accuracy, dependability, and unparalleled e
 
 $cargo_transportation_content = "From little gifts to large loads , we handle every cargo with the highest care and attention to detail,  to give our customers a flawless and trouble-free experience.";
 
-$air_freight_content = "Providing an efficient and dependable aerial cargo delivery across the globe. Air freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival";
+$air_freight_content = "Providing an efficient and dependable cargo delivery across the globe. Ocean freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival";
 
 $ocean_freight_content = "Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.";
 
@@ -99,7 +99,6 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
                     <h4><?php echo $who_we_are_heading ?></h4>
                     <p> <?php echo $who_we_are_content ?></p>
                 </div>
-                <a href="#" class="nile-bottom sm">Read More</a>
 
             </div>
             <div class="col-lg-6">
@@ -110,41 +109,9 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
 </div>
 
 <!--============= //About Us =============-->
-
-<div class="call-action ba-2">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-7 padding-tb-15px">
-                <h2>Unbeatable Trucking and Transport Services</h2>
-                <div class="text">
-                    <p><?php echo $truck_transport_service ?></p>
-                </div>
-            </div>
-            <div class="col-lg-5">
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 sm-mb-45px">
-                        <a href="#" class="action-bottom layout-1">
-                            <img src="assets/icons/small-icon-1.png" alt="">
-                            <h4>Tell Friend</h4>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-4 sm-mb-45px">
-                        <a href="#" class="action-bottom layout-1">
-                            <img src="assets/icons/small-icon-2.png" alt="">
-                            <h4>Read More</h4>
-                        </a>
-                    </div>
-                    <div class="col-lg-4 col-md-4">
-                        <a href="#" class="action-bottom layout-1">
-                            <img src="assets/icons/small-icon-3.png" alt="">
-                            <h4>Contact Us</h4>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+<?php
+include "./_templates/_letter.php";
+?>
 
 <div class="nile-about-section">
     <div class="container">
@@ -152,7 +119,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
         <div class="section-title margin-bottom-40px">
             <div class="row justify-content-center">
                 <div class="col-lg-7">
-                    <div class="icon text-main-color"><i class="fa fa-truck"></i></div>
+                    <div class="icon text-main-color"><img src="assets/icons/service-blue-3.png" alt=""></div>
                     <div class="h2">Our Service</div>
                     <div class="des">
                         <p> <?php echo $our_service_content ?></p>
@@ -166,15 +133,15 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
 
             <div class="col-lg-4">
                 <div class="service-icon-box">
-                    <div class="icon"><img src="assets/icons/service-dark-1.png" alt=""></div>
+                    <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
                     <a href="#" class="title h2">Cargo Transportation</a>
                     <div class="des">
-                        <p><?php echo $cargo_transportation_content?></p>
+                        <p><?php echo $cargo_transportation_content ?></p>
                     </div>
                 </div>
                 <div class="service-icon-box">
-                    <div class="icon"><img src="assets/icons/service-dark-2.png" alt=""></div>
-                    <a href="#" class="title h2">Air Freight</a>
+                    <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
+                    <a href="#" class="title h2">Ocean Freight</a>
                     <div class="des">
                         <p><?php echo $air_freight_content ?></p>
                     </div>
@@ -187,14 +154,14 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
             </div>
             <div class="col-lg-4">
                 <div class="service-icon-box">
-                    <div class="icon"><img src="assets/icons/service-dark-3.png" alt=""></div>
+                    <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
                     <a href="#" class="title h2">Ocean Freight</a>
                     <div class="des">
                         <p><?php echo $ocean_freight_content ?></p>
                     </div>
                 </div>
                 <div class="service-icon-box">
-                    <div class="icon"><img src="assets/icons/service-dark-4.png" alt=""></div>
+                    <div class="icon"><img src="assets/icons/service-blue-4.png" alt=""></div>
                     <a href="#" class="title h2">Packaging & Storage</a>
                     <div class="des">
                         <p><?php echo $pack_stoarage_content ?></p>
@@ -204,7 +171,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
         </div>
 
         <div class="text-center margin-top-35px">
-            <a href="#" class="nile-bottom md">Show all <i class="fa fa-arrow-right"></i> </a>
+            <a href="service.php" class="nile-bottom md">Show all <i class="fa fa-arrow-right"></i> </a>
         </div>
 
     </div>
