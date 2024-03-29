@@ -64,7 +64,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
       <div class="col-lg-4 col-md-6">
         <div class="nile-widget">
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px icon1" ><span class="icon_pin_alt"></span></div>
             <div class="text margin-bottom-25px">
               <span class="title-in"><?php echo $location_2 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_2_content ?></span>
@@ -76,7 +76,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
       <div class="col-lg-4 col-md-6">
         <div class="nile-widget">
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px icon1" ><span class="icon_pin_alt"></span></div>
             <div class="text">
               <span class="title-in"><?php echo $location_3 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_3_content ?></span>
@@ -88,7 +88,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
         <div class="nile-widget">
         
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px icon1" ><span class="icon_pin_alt"></span></div>
             <div class="text margin-bottom-25px">
               <span class="title-in"><?php echo $location_1 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_1_content ?></span>
