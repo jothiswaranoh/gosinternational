@@ -7,31 +7,31 @@ $aboutSections = array(
     "title" => "History",
     "content" => "Green Ocean Shipping International Private Ltd is committed to becoming the leader in the shipping industry market in the Andaman and Nicobar Islands. Our mission is to provide and serve the people of Andaman and India, aiming to enhance economic stability and improve living conditions on the islands and in their respective regions. We aim to build a reputation for reliability, satisfaction, and innovation. Through a strategic partnership focused on efficiency and results orientation, we aim to contribute to the accessibility and popularity in nation-building and the shipping industry market.",
     "icon" => "assets/icons/title-icon-1.png",
-    "image" => "assets/img/gritte-QUv_ahxIdPw-unsplash.jpg"
+    "image" => "assets/img/h1.jpg"
   ),
   array(
     "title" => "Mission",
     "content" => "Our mission is to provide and serve the people of Andaman and India, aiming to enhance economic stability and improve living conditions on the islands and in their respective regions. We aim to build a reputation for reliability, satisfaction, and innovation. Through a strategic partnership focused on efficiency and results orientation, we aim to contribute to the accessibility and popularity in nation-building and the shipping industry market.",
     "icon" => "assets/icons/title-icon-1.png",
-    "image" => "assets/img/gritte-QUv_ahxIdPw-unsplash.jpg"
+    "image" => "assets/img/h2.jpg"
   ),
   array(
     "title" => "Vision",
     "content" => "Green Ocean Shipping Int Pvt Ltd envisions establishing itself as a prominent leader in the shipping industry in the Andaman and Nicobar Islands, India. We aspire to provide a comprehensive range of top-notch and innovative ocean-going multimodal transportation services, tailored to meet the ever-changing preferences of our customers. We seek recognition for our unwavering commitment to excellence, ethical business conduct, and sustainable effective practices. Through continuous improvement and customer-centric strategies, we aim to emerge as a trusted and influential presence in the nation-building and also 'Make in India' / 'Sagar Mala' projects, contributing to the overall growth and satisfaction of our clientele.",
     "icon" => "assets/icons/title-icon-3.png",
-    "image" => "assets/img/gritte-QUv_ahxIdPw-unsplash.jpg"
+    "image" => "assets/img/h3.jpg"
   ),
   array(
     "title" => "Industry Recognition",
     "content" => "Green Ocean Shipping International Ltd has consistently earned accolades. It was recognized as the best shipping service for rescuing distressed people during the 2005 tsunami and received an appreciation award from the Andaman Nicobar administration. This recognition underscores our unwavering dedication to excellence in the shipping sector.",
     "icon" => "assets/icons/title-icon-4.png",
-    "image" => "assets/img/gritte-QUv_ahxIdPw-unsplash.jpg"
+    "image" => "assets/img/h4.jpg"
   ),
   array(
     "title" => "Transparency and Relationships",
     "content" => "At Green Ocean Shipping International Pvt Ltd, we prioritize transparency and cultivate strong relationships. With sufficient potential clients, our commitment to openness and trust forms the cornerstone of our success.",
     "icon" => "assets/icons/title-icon-5.png",
-    "image" => "assets/img/gritte-QUv_ahxIdPw-unsplash.jpg"
+    "image" => "assets/img/h5.jpg"
   ),
 );
 
