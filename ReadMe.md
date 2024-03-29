@@ -1,4 +1,4 @@
-
+Hi, prioritize the work points
 |Page        |Bugs      | Status     |
 |:-----------------:|:-----------------:|:-----------------:|
 |Home |Contact us button|:heavy_check_mark: not moving to the contact page when clicked|
