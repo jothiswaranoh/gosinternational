@@ -39,5 +39,6 @@
   <link rel="stylesheet" type="text/css" href="assets/css/override.scss">
   <link rel="stylesheet" type="text/css" href="assets/css/history.scss">
   <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+  <link rel="stylesheet" type="text/css" href="assets/css/footer.css">
 </head>
 <body>

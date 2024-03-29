@@ -56,7 +56,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
     <div class="row mt-5 text-light ">
       <div class="col-md-12 flex-center" >
         <h3 >LOCATIONS:</h3>
-        <hr class="location-underline" style="background-color:white;height:1px;border-radius:10px">
+        <hr class="location-underline" >
       </div>
     </div>
     <div class="row mt-2 ">
@@ -64,7 +64,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
       <div class="col-lg-4 col-md-6">
         <div class="nile-widget">
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
             <div class="text margin-bottom-25px">
               <span class="title-in"><?php echo $location_2 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_2_content ?></span>
@@ -76,7 +76,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
       <div class="col-lg-4 col-md-6">
         <div class="nile-widget">
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
             <div class="text">
               <span class="title-in"><?php echo $location_3 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_3_content ?></span>
@@ -88,7 +88,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
         <div class="nile-widget">
         
           <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="icon margin-top-5px" ><span class="icon_pin_alt"></span></div>
             <div class="text margin-bottom-25px">
               <span class="title-in"><?php echo $location_1 ?></span> <br>
               <span class="font-weight-500 text-uppercase"><?php echo $location_1_content ?></span>
@@ -99,7 +99,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
     </div>
 
   </div>
-  <div class="copy-right">
+  <div class="copy-right bg-secondary">
     <div class="container padding-tb-30px">
       <div class="row">
         <div class="col-lg-6">
