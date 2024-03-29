@@ -26,11 +26,12 @@ We handle your logistical needs with accuracy, dependability, and unparalleled e
 
 $cargo_transportation_content = "From little gifts to large loads , we handle every cargo with the highest care and attention to detail,  to give our customers a flawless and trouble-free experience.";
 
-$air_freight_content = "Providing an efficient and dependable cargo delivery across the globe. Ocean freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival";
+$cruiser_content = "For those looking for some entertainment, we have a variety of activities available on board. From live music performances to water sports, there's something for everyone to enjoy.";
 
 $ocean_freight_content = "Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.";
 
-$pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage option.";
+$pack_storage_content = "Your cargo is safe with us in our warehouses, where we prioritize its integrity. 
+                         Whether heavy-duty equipment or delicate goods, our storage offers peace of mind, knowing your shipments are secure.";
 ?>
 
 <!-- Get A Quote  -->
@@ -141,9 +142,9 @@ include "./_templates/_letter.php";
                 </div>
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
-                    <a href="#" class="title h2">Ocean Freight</a>
+                    <a href="#" class="title h2">Cruiser</a>
                     <div class="des">
-                        <p><?php echo $air_freight_content ?></p>
+                        <p><?php echo $cruiser_content ?></p>
                     </div>
                 </div>
             </div>
@@ -164,7 +165,7 @@ include "./_templates/_letter.php";
                     <div class="icon"><img src="assets/icons/service-blue-4.png" alt=""></div>
                     <a href="#" class="title h2">Packaging & Storage</a>
                     <div class="des">
-                        <p><?php echo $pack_stoarage_content ?></p>
+                        <p><?php echo $pack_storage_content ?></p>
                     </div>
                 </div>
             </div>
