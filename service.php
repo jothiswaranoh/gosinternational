@@ -85,7 +85,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 		<div class="padding-tb-120px">
 			<h1><?php echo $cargo_transport_title ?></h1>
 			<ol class="breadcrumb">
-				<li><a href="#">Home</a></li>
+				<li><a href="index.php">Home</a></li>
 				<li class="active">Cargo Transportation</li>
 			</ol>
 		</div>
@@ -237,7 +237,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 						</a>
 					</div>
 					<div class="col-lg-4 col-md-4">
-						<a href="#" class="action-bottom layout-1">
+						<a href="contact.php" class="action-bottom layout-1">
 							<img src="assets/icons/small-icon-3.png" alt="">
 							<h4>Contact Us</h4>
 						</a>
