@@ -15,10 +15,10 @@
 |        |tell friend/read more|buttons are'nt working|
 |         |Location and call center above get free quote|Alignment of the contents can be changed|
 |Contact us|tell friend/read more/contact us (footer section)|fotter part containing the above is missing|
-|          |Get a quote button|button is'nt moving to quotation form in contact and history page alone |
+|          |Get a quote button|:heavy_check_mark:button is'nt moving to quotation form in contact and history page alone |
 |History|~~the template with heading "history"~~|~~picture with the heading as "history" is missing~~|
 |       |tell friend/read more/contact us (footer section)|fotter part containing the above is missing|
-|       |Get a quote button|button is'nt moving to quotation form|
+|       |Get a quote button|:heavy_check_mark:button is'nt moving to quotation form|
 |        |Images | All the images are same|
 |        |Transperancy and Relationship|It is looking odd,can bring some changes there|
 |Footer Section|~~tell friend / read more~~|~~No navigation link is added~~|

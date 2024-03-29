@@ -43,7 +43,7 @@ $socialMediaLinks = array(
                                 </ul>
                             </div>
                             <div class="col-lg-2 col-md-12  d-none d-lg-block">
-                                <a data-toggle="modal" data-target=".bd-example-modal-lg" href="#" class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color  box-shadow float-right padding-lr-20px margin-left-30px d-block">
+                                <a data-toggle="modal" data-target=".bd-example-modal-lg" href="./_templates/_quote.php" class="btn btn-sm border-radius-30 margin-tb-20px text-white  background-main-color  box-shadow float-right padding-lr-20px margin-left-30px d-block">
                                     <i class="fa fa-envelope-o margin-right-10px"></i>
                                     Get A Quote
                                 </a>
