@@ -56,7 +56,7 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
     <div class="row mt-5 text-light ">
       <div class="col-md-12 flex-center" >
         <h3 >LOCATIONS:</h3>
-        <hr class="location-underline" style="background-color:grey;height:1px;border-radius:10px">
+        <hr class="location-underline" style="background-color:white;height:1px;border-radius:10px">
       </div>
     </div>
     <div class="row mt-2 ">
