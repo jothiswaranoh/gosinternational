@@ -27,3 +27,11 @@
 |              |all rights reserved part|stays the same in grey colour|
 |              |Map Location|Location needs to be changed|
 |_header_variables file| The variables declared are not used|Only one variable is used from that file|
+
+<img src ="assets\img\service_modify_it.png" alt="assets\img\service_section_put_in_box" >
+
+- In this, put a box for all the 4 sub topics under Our Service
+  
+<img src ="assets\img\package_ocean_align.png" alt="assets\img\align the package and storage area and ocean freight like a box removing the gaps">
+
+- Align the package & storage  and ocean freight area like a box removing the gaps 
