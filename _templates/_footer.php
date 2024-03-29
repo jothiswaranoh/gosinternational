@@ -2,7 +2,7 @@
 $service_title = "Our Services";
 $site_pages_title = "Site Pages";
 $locations_title = "Locations";
-$location_1 = "Location :";
+$location_1 = "Location : Branch.off";
 $location_1_content = "18/4 Sippighat, Port Blair-Andaman & Nicobar-744105.";
 $location_2_title = "Locations : Regd. Off.";
 $location_2 = "Location : Regd. Off.";
@@ -40,45 +40,6 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
           </ul>
         </div>
       </div>
-    </div>
-    <div class="row ">
-      <div class="col-lg-3 col-md-6">
-        <div class="nile-widget">
-          <h2 class="title"><?php echo $locations_title ?></h2>
-          <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
-            <div class="text margin-bottom-25px">
-              <span class="title-in"><?php echo $location_1 ?></span> <br>
-              <span class="font-weight-500 text-uppercase"><?php echo $location_1_content ?></span>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="nile-widget">
-          <h2 class="title"><?php echo $location_2 ?></h2>
-          <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
-            <div class="text margin-bottom-25px">
-              <span class="title-in"><?php echo $location_2 ?></span> <br>
-              <span class="font-weight-500 text-uppercase"><?php echo $location_2_content ?></span>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-6">
-        <div class="nile-widget">
-          <h2 class="title"><?php echo $location_3_title ?></h2>
-          <div class="contact-info opacity-9">
-            <div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
-            <div class="text">
-              <span class="title-in"><?php echo $location_3 ?></span> <br>
-              <span class="font-weight-500 text-uppercase"><?php echo $location_3_content ?></span>
-            </div>
-          </div>
-        </div>
-      </div>
-
       <div class="col-lg-3 col-md-6">
         <div class="nile-widget">
           <h2 class="title"><?php echo $call_center_title ?></h2>
@@ -91,6 +52,50 @@ $copy_right_content = "&copy; All rights reserved for GoInternational";
           </div>
         </div>
       </div>
+    </div>
+    <div class="row mt-5 text-light ">
+      <div class="col-md-12 flex-center" >
+        <h3 >LOCATIONS:</h3>
+        <hr class="location-underline" style="background-color:white;height:1px;border-radius:10px">
+      </div>
+    </div>
+    <div class="row mt-2 ">
+    
+      <div class="col-lg-4 col-md-6">
+        <div class="nile-widget">
+          <div class="contact-info opacity-9">
+            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="text margin-bottom-25px">
+              <span class="title-in"><?php echo $location_2 ?></span> <br>
+              <span class="font-weight-500 text-uppercase"><?php echo $location_2_content ?></span>
+            </div>
+          </div>
+        </div>
+      </div>
+     
+      <div class="col-lg-4 col-md-6">
+        <div class="nile-widget">
+          <div class="contact-info opacity-9">
+            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="text">
+              <span class="title-in"><?php echo $location_3 ?></span> <br>
+              <span class="font-weight-500 text-uppercase"><?php echo $location_3_content ?></span>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-4 col-md-6">
+        <div class="nile-widget">
+        
+          <div class="contact-info opacity-9">
+            <div class="icon margin-top-5px" style="height:150px;"><span class="icon_pin_alt"></span></div>
+            <div class="text margin-bottom-25px">
+              <span class="title-in"><?php echo $location_1 ?></span> <br>
+              <span class="font-weight-500 text-uppercase"><?php echo $location_1_content ?></span>
+            </div>
+          </div>
+        </div>
+      </div>    
     </div>
 
   </div>
