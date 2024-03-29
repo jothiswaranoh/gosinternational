@@ -27,7 +27,7 @@ $news_3 = "Green Ocean Shipping leads with eco-friendly practices, paving the wa
             <a href="#"><img src="assets/img/blog-grid-1.jpg" alt=""></a>
             <a href="#" class="date">
               <span class="day">15</span>
-              <span class="month">April</span>
+              <span class="month">Feb</span>
             </a>
           </div>
           <a href="#" class="title"><?php echo $news_1 ?></a>
@@ -39,7 +39,7 @@ $news_3 = "Green Ocean Shipping leads with eco-friendly practices, paving the wa
           <div class="img">
             <a href="#"><img src="assets/img/blog-grid-2.jpg" alt=""></a>
             <a href="#" class="date">
-              <span class="day">15</span>
+              <span class="day">30</span>
               <span class="month">April</span>
             </a>
           </div>
@@ -52,8 +52,8 @@ $news_3 = "Green Ocean Shipping leads with eco-friendly practices, paving the wa
           <div class="img">
             <a href="#"><img src="assets/img/blog-grid-3.jpg" alt=""></a>
             <a href="#" class="date">
-              <span class="day">15</span>
-              <span class="month">April</span>
+              <span class="day">03</span>
+              <span class="month">Dec</span>
             </a>
           </div>
           <a href="#" class="title"><?php echo $news_3 ?></a>

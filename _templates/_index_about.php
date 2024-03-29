@@ -35,10 +35,10 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
 
         <div class="section-title-right text-main-color clearfix">
           <div class="icon"><img src="assets/icons/title-icon-1.png" alt=""></div>
-          <h2 class="title-text"><?php $who_we_are_title ?></h2>
+          <h2 class="title-text"><?php echo $who_we_are_title ?></h2>
         </div>
-        <div class="about-text margin-tb-25px"><?php $who_we_are_content ?></div>
-        <a href="#" class="nile-bottom sm"><?php $read_more ?></a>
+        <div class="about-text margin-tb-25px"><?php echo $who_we_are_content ?></div>
+        <a href="#" class="nile-bottom sm"><?php echo $read_more ?></a>
 
 
         <div id="accordion" class="nile-accordion margin-top-80px sm-mb-45px">

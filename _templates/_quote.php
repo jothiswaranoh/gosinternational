@@ -77,7 +77,7 @@
             data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]"
             data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
             style="z-index: 6; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Poppins;background-color:var(--primary-blue);border-color:var(--primary-blue);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-            Contact Us </div>
+            <a href="contact.php" style="text-decoration: none; color: inherit;">Contact Us</a> </div>
         </li>
         <!-- SLIDE  -->
         <li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
@@ -112,7 +112,7 @@
             data-textAlign="['inherit','inherit','inherit','inherit']" data-paddingtop="[12,12,12,12]"
             data-paddingright="[35,35,35,35]" data-paddingbottom="[12,12,12,12]" data-paddingleft="[35,35,35,35]"
             style="z-index: 6; white-space: nowrap; font-size: 14px; line-height: 17px; font-weight: 500; color: rgba(255,255,255,1); letter-spacing: 0px;font-family:Poppins;background-color:var(--primary-blue);border-color:var(--primary-blue);border-style:solid;border-width:2px 2px 2px 2px;border-radius:30px 30px 30px 30px;outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">
-            Contact Us </div>
+            <a href="contact.php" style="text-decoration: none; color: inherit;">Contact Us</a> </div>
         </li>
       </ul>
       <div class="tp-bannertimer tp-bottom" style="visibility: hidden !important;"></div>
