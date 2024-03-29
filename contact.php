@@ -15,7 +15,7 @@ $addr_content = "18/4 Sippighat, Port Blair-Andaman & Nicobar-744105";
     <div class="padding-tb-120px">
       <h1>Contact Us</h1>
       <ol class="breadcrumb">
-        <li><a href="#">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li class="active">Contact Us</li>
       </ol>
     </div>

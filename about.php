@@ -78,7 +78,7 @@ $pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether
         <div class="padding-tb-120px">
             <h1>About Us</h1>
             <ol class="breadcrumb">
-                <li><a href="#">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li class="active">About Us</li>
             </ol>
         </div>
