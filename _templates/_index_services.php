@@ -3,7 +3,7 @@ $our_service_title = "Our Service";
 $our_service_content_ = "Experience reliable and efficient marine cargo services worldwide.";
 
 $marine_cargo_title = "Marine Cargo Transportation";
-$marine_cargo_content = "Where your precious goods are transported with the utmost care and efficiency.";
+$marine_cargo_content = "Your trusted partner for seamless and sustainable marine cargo transportation solutions worldwide. Experience reliability and expertise.";
 
 $cruiser_title = "Cruiser";
 $cruiser_content = "For those looking for some entertainment, we have a variety of activities
@@ -11,12 +11,11 @@ $cruiser_content = "For those looking for some entertainment, we have a variety 
                     everyone to enjoy.";
 
 $ocean_freight_title_ = "Ocean Freight";
-$ocean_freight_content_ = "Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.";
+$ocean_freight_content_ = "Join us in exploring the power of ocean freight as we reliably and precisely move your
+                   cargo from port to port and coast to coast, ensuring seamless delivery every time.";
 
 $pack_store_title_ = "Packaging & Storage";
-$pack_store_content_ = "Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure
-                        in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage
-                        option.";
+$pack_store_content_ = "Whether you are storing massive equipment or delicate goods, you can be at ease knowing that your cargo is in good hands at our facilities";
 
 $show_all = "Show all";
 ?>
