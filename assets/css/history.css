@@ -1,0 +1,16 @@
+
+.image-zoom-effect{
+    transition: 0.3s;
+} 
+.image-zoom-effect:hover {
+    transform: scale(1.1);
+}
+.img-wrapper1 {  
+    overflow: hidden; 
+}
+.bg-gradiant {
+    background-image: linear-gradient(to bottom right,#D7E1EC ,#FFFFFF);
+}
+.bg-gradiant1 {
+    background-image: linear-gradient(to top right,#D7E1EC ,#FFFFFF);
+}
