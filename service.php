@@ -93,7 +93,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 </div>
 
 
-<div class="padding-tb-30px">
+<div class="padding-tb-30px bg-servicepage">
 	<div class="container">
 		<div class="row">
 
@@ -156,11 +156,11 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 
 			<div class="col-lg-3">
 				<div class="background-white margin-bottom-40px">
-					<div class="nile-widget contact-widget">
+					<div class="nile-widget contact-widget contact-box-service ">
 						<div class="padding-30px">
 							<div class="margin-bottom-60px">
 								<h2 class="title"><?php echo $location_title ?></h2>
-								<div class="contact-info opacity-9">
+								<div class="contact-info opacity-9 text-light">
 									<div class="icon margin-top-5px"><span class="icon_pin_alt"></span></div>
 									<div class="text">
 										<span class="title-in"><?php echo $location_in_title ?></span> <br>
@@ -170,7 +170,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 							</div>
 							<div class="call_center">
 								<h2 class="title"><?php echo $call_center_title ?></h2>
-								<div class="contact-info opacity-9">
+								<div class="contact-info opacity-9 text-light">
 									<div class="icon  margin-top-5px"><span class="icon_phone"></span></div>
 									<div class="text">
 										<span class="title-in"><?php echo $call_in_title ?></span><br>
@@ -217,7 +217,7 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-7 padding-tb-15px">
-				<h2><?php echo $truck_transpot_title ?></h2>
+				<h2 class="text-primary"><?php echo $truck_transpot_title ?></h2>
 				<div class="text">
 					<p><?php echo $truck_transport ?></p>
 				</div>
@@ -227,19 +227,19 @@ $call_center_content = " +91 44313 15352 <br> +91 99320 88788";
 					<div class="col-lg-4 col-md-4 sm-mb-45px">
 						<a href="#" class="action-bottom layout-1">
 							<img src="assets/icons/small-icon-1.png" alt="">
-							<h4>Tell Friend</h4>
+							<h4 class="mt-2 text-dark">Tell Friend</h4>
 						</a>
 					</div>
 					<div class="col-lg-4 col-md-4 sm-mb-45px">
 						<a href="#" class="action-bottom layout-1">
 							<img src="assets/icons/small-icon-2.png" alt="">
-							<h4>Read More</h4>
+							<h4 class="mt-2 text-dark">Read More</h4>
 						</a>
 					</div>
 					<div class="col-lg-4 col-md-4">
 						<a href="contact.php" class="action-bottom layout-1">
 							<img src="assets/icons/small-icon-3.png" alt="">
-							<h4>Contact Us</h4>
+							<h4 class="mt-2 text-dark">Contact Us</h4>
 						</a>
 					</div>
 				</div>
