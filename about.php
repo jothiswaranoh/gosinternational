@@ -5,12 +5,11 @@ include "./_templates/_service_header.php";
 
 $who_we_are_heading = "25 years of experience in Logistics services";
 
-$who_we_are_content = "We are leaders in the field of logistics services, having established standards for excellence in freight transportation throughout a 25-year history.
-Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure.
-We have mastered our skills by navigating through difficulties and victories, from busy ports to the most remote regions of the world.
-With an eye for innovation and a drive for excellence, we create custom solutions that skillfully combine knowledge, experience, and individualized attention.
-You can rely on us to deliver your cargo quickly and precisely, making sure it gets to its destination without incident.
-Discover the distinction by working with our skilled staff, who are committed to offering the best logistics solutions available.";
+$who_we_are_content = "We are leaders in the field of logistics services, having established standards for excellence in freight transportation throughout a 25-year history. 
+                       Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure. We have mastered our skills by navigating 
+                       through difficulties and victories, from busy ports to the most remote regions of the world. You can rely on us to deliver 
+                       your cargo quickly and precisely, making sure it gets to its destination without incident. Discover the distinction by working with our skilled staff, 
+                       who are committed to offering the best logistics solutions available.";
 
 $truck_transport_service = "For the past 25 years, we have set the standard for service in the transportation sector.
 We have decades of experience and have mastered the art of dependable, safe, and timely delivery of goods.
@@ -26,11 +25,12 @@ We handle your logistical needs with accuracy, dependability, and unparalleled e
 
 $cargo_transportation_content = "From little gifts to large loads , we handle every cargo with the highest care and attention to detail,  to give our customers a flawless and trouble-free experience.";
 
-$air_freight_content = "Providing an efficient and dependable cargo delivery across the globe. Ocean freight is a favored option for companies needing accelerated shipping since it guarantees timely arrival";
+$cruiser_content = "For those looking for some entertainment, we have a variety of activities available on board. From live music performances to water sports, there's something for everyone to enjoy.";
 
 $ocean_freight_content = "Join us in exploring the power of ocean freight as we reliably and precisely move your cargo from port to port and coast to coast.";
 
-$pack_stoarage_content = "Your cargo is in safe hands at our warehouses, whether it be large equipment or delicate goods. You could feel secure in the knowledge that we put your shipments' integrity and safety first, providing peace of mind with every storage option.";
+$pack_storage_content = "Your cargo is safe with us in our warehouses, where we prioritize its integrity. 
+                         Whether heavy-duty equipment or delicate goods, our storage offers peace of mind, knowing your shipments are secure.";
 ?>
 
 <!-- Get A Quote  -->
@@ -141,9 +141,9 @@ include "./_templates/_letter.php";
                 </div>
                 <div class="service-icon-box">
                     <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
-                    <a href="#" class="title h2">Ocean Freight</a>
+                    <a href="#" class="title h2">Cruiser</a>
                     <div class="des">
-                        <p><?php echo $air_freight_content ?></p>
+                        <p><?php echo $cruiser_content ?></p>
                     </div>
                 </div>
             </div>
@@ -164,7 +164,7 @@ include "./_templates/_letter.php";
                     <div class="icon"><img src="assets/icons/service-blue-4.png" alt=""></div>
                     <a href="#" class="title h2">Packaging & Storage</a>
                     <div class="des">
-                        <p><?php echo $pack_stoarage_content ?></p>
+                        <p><?php echo $pack_storage_content ?></p>
                     </div>
                 </div>
             </div>
