@@ -53,13 +53,13 @@ $aboutSections = array(
 <!-- ======= Features Section ======= -->
 
 
-<section id="features" class="features">
+<section id="features" class="features bg-gradiant ">
   <div class="container">
 
     <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
 
-      <div class="col-md-5">
-        <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
+      <div class="col-md-5 img-wrapper1">
+        <img src="assets/img/about-1.jpg" class="img-fluid image-zoom-effect" alt="">
       </div>
       <div class="col-md-7 padding-top-16px">
         <h3><?php echo $aboutSections[0]["title"]; ?></h3>
@@ -68,8 +68,8 @@ $aboutSections = array(
     </div><!-- Features Item -->
 
     <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-      <div class="col-md-5 order-1 order-md-2">
-        <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
+      <div class="col-md-5 order-1 order-md-2 img-wrapper1">
+        <img src="assets/img/ba_call_action.jpg" class="img-fluid image-zoom-effect" alt="">
       </div>
       <div class="col-md-7 order-2 order-md-1 padding-top-16px">
         <h3><?php echo $aboutSections[1]["title"]; ?></h3>
@@ -78,8 +78,8 @@ $aboutSections = array(
     </div><!-- Features Item -->
 
     <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-      <div class="col-md-5">
-        <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
+      <div class="col-md-5 img-wrapper1">
+        <img src="assets/img/about-3.jpg" class="img-fluid image-zoom-effect" alt="">
       </div>
       <div class="col-md-7 padding-top-16px">
         <h3><?php echo $aboutSections[2]["title"]; ?></h3>
@@ -88,8 +88,8 @@ $aboutSections = array(
     </div><!-- Features Item -->
 
     <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
-      <div class="col-md-5 order-1 order-md-2">
-        <img src="assets/img/about-1.jpg" class="img-fluid" alt="">
+      <div class="col-md-5 order-1 order-md-2 img-wrapper1">
+        <img src="assets/img/blog-1.jpg" class="img-fluid image-zoom-effect" alt="">
       </div>
       <div class="col-md-7 order-2 order-md-1 padding-top-16px">
         <h3><?php echo $aboutSections[3]["title"]; ?></h3>
@@ -100,7 +100,7 @@ $aboutSections = array(
   </div>
 </section><!-- End Features Section -->
 <!-- ======= About Us Section ======= -->
-<section id="about" class="about pt-0">
+<section id="about" class="about pt-0 bg-gradiant1">
   <div class="container" data-aos="fade-up">
 
     <div class="row gy-4">
