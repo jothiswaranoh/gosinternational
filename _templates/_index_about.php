@@ -1,7 +1,11 @@
 <?php
 $who_we_are_title =   "Who We Are ?";
-$who_we_are_content = "Green Ocean Shipping International has been a pioneer in the
-                       shipping industry in the Andaman and Nicobar Islands since 1977.";
+$who_we_are_content = "Green Ocean Shipping International has been a pioneer in the shipping industry in the Andaman and Nicobar Islands since 1977. 
+                       For over <b>4 decades</b>, we have navigated the vast oceans,connecting distant shores with our unparalleled ocean freight services.
+                       With our <i>Registered office</i> and <i>Corporate office</i> nestled in the bustling hub of <i>Anna Nagar, Chennai</i>, we stand ready to chart a course for success, together with you.
+                       Embark on a voyage with Green Ocean Shipping International, where every wave tells a story of innovation and reliability.. Our commitment to excellence and dedication to customer satisfaction 
+                       have made us a beacon in the shipping industry. Set sail with us and experience the thrill of seamless logistics, as we navigate the waters of global trade. 
+                       ";
 $read_more =          "Read More";
 
 $why_us_title =   "Why us?";
@@ -37,8 +41,12 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
           <div class="icon"><img src="assets/icons/title-icon-1.png" alt=""></div>
           <h2 class="title-text"><?php echo $who_we_are_title ?></h2>
         </div>
-        <div class="about-text margin-tb-25px"><?php echo $who_we_are_content ?></div>
-        <a href="#" class="nile-bottom sm"><?php echo $read_more ?></a>
+        <div class="margin-tb-25px" id="about-text">
+          <div id="preview"><?php echo substr($who_we_are_content, 0, 125); ?></div>
+          <div id="more" style="display: none;"><?php echo substr($who_we_are_content, 126); ?></div>
+        </div>
+        
+        <button class="nile-bottom  bg-primary rounded rounded-4 border border-dark-subtle " id="read-more-link"><?php echo $read_more ?></button>
 
 
         <div id="accordion" class="nile-accordion margin-top-80px sm-mb-45px">
@@ -104,7 +112,7 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
             </div>
           </div>
           <div class="col-sm-6">
-          <img src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" alt="">
+            <img src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" alt="">
           </div>
         </div>
 

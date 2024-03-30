@@ -5,12 +5,11 @@ include "./_templates/_service_header.php";
 
 $who_we_are_heading = "25 years of experience in Logistics services";
 
-$who_we_are_content = "We are leaders in the field of logistics services, having established standards for excellence in freight transportation throughout a 25-year history.
-Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure.
-We have mastered our skills by navigating through difficulties and victories, from busy ports to the most remote regions of the world.
-With an eye for innovation and a drive for excellence, we create custom solutions that skillfully combine knowledge, experience, and individualized attention.
-You can rely on us to deliver your cargo quickly and precisely, making sure it gets to its destination without incident.
-Discover the distinction by working with our skilled staff, who are committed to offering the best logistics solutions available.";
+$who_we_are_content = "We are leaders in the field of logistics services, having established standards for excellence in freight transportation throughout a 25-year history. 
+                       Our path serves as evidence of our steadfast dedication to effectiveness, dependability, and client pleasure. We have mastered our skills by navigating 
+                       through difficulties and victories, from busy ports to the most remote regions of the world. You can rely on us to deliver 
+                       your cargo quickly and precisely, making sure it gets to its destination without incident. Discover the distinction by working with our skilled staff, 
+                       who are committed to offering the best logistics solutions available.";
 
 $truck_transport_service = "For the past 25 years, we have set the standard for service in the transportation sector.
 We have decades of experience and have mastered the art of dependable, safe, and timely delivery of goods.
