@@ -13,7 +13,7 @@ $news_3 = "Green Ocean Shipping leads with eco-friendly practices, paving the wa
     <div class="section-title margin-bottom-40px">
       <div class="row justify-content-center">
         <div class="col-lg-7">
-          <div class="icon text-main-color"><i class="fa fa-bookmark-o"></i></div>
+          <div class="icon text-main-color mb-3"><i class="fa fa-bookmark-o"></i></div>
           <div class="h2"><?php echo $latest_news_title ?></div>
           <div class="des"><?php echo $latest_news_content ?></div>
         </div>

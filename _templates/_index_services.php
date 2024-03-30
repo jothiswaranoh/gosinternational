@@ -25,7 +25,7 @@ $show_all = "Show all";
     <div class="section-title margin-bottom-40px">
       <div class="row justify-content-center">
         <div class="col-lg-7">
-          <div class="icon text-main-color"><i class="fa fa-truck"></i></div>
+          <div class="icon text-main-color mb-3"><i class="fa fa-truck"></i></div>
           <div class="h2"><?php echo $our_service_title ?></div>
           <div class="des"><?php echo $our_service_content_ ?></div>
         </div>
