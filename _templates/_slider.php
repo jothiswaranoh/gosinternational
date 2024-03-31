@@ -3,7 +3,7 @@
     <div class="col-md-4">
       <div class="service layout-1">
         <div class="clearfix">
-          <div class="icon"><img src="assets/icons/Home_Ocean_Freight.png" alt=""></div>
+          <div class="icon"><img src="assets/icons/service-light-3.png" alt=""></div>
           <a href="#" class="title">Ocean Freight</a>
         </div>
         <div class="dis clearfix">
