@@ -46,7 +46,7 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
           <div id="more" style="display: none;"><?php echo substr($who_we_are_content, 126); ?></div>
         </div>
         
-        <button class="nile-bottom  bg-primary rounded rounded-4 border border-dark-subtle " id="read-more-link"><?php echo $read_more ?></button>
+        <button class="nile-bottom btn btn-primary rounded text-light " id="read-more-link"><?php echo $read_more ?></button>
 
 
         <div id="accordion" class="nile-accordion margin-top-80px sm-mb-45px">
