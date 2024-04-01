@@ -35,7 +35,7 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
 <div class="nile-about-section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6">
+      <div class="col-lg-5">
 
         <div class="section-title-right text-main-color clearfix">
           <div class="icon"><img src="assets/icons/title-icon-1.png" alt=""></div>
@@ -45,7 +45,7 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
           <div id="preview"><?php echo substr($who_we_are_content, 0, 125); ?></div>
           <div id="more" style="display: none;"><?php echo substr($who_we_are_content, 126); ?></div>
         </div>
-        
+
         <button class="nile-bottom  bg-primary rounded rounded-4 border border-dark-subtle btn btn-primary  " id="read-more-link"><?php echo $read_more ?></button>
 
 
@@ -85,14 +85,14 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
           </div>
         </div>
       </div>
-      <div class="col-lg-6">
+      <div class="col-lg-7">
 
-        <div class="row">
-          <div class="col-sm-6">
-            <img src="assets/img/gabriel-lucindo-jwIBWTvXExM-unsplash.jpg" alt="">
+        <div class="row gap-2rem">
+          <div class="col-sm-6 ">
+            <img class="img-about" src="assets/img/cart-3.jpg" alt="">
           </div>
-          <div class="col-sm-6">
-            <div class="cart-service background-main-color">
+          <div class="col-sm-6 ">
+            <div class="cart-service background-main-color  img-about">
               <div class="icon"><img src="assets/icons/service-light-4.png" alt=""></div>
               <h2><?php echo $pack_nd_store_title ?></h2>
               <hr>
@@ -102,7 +102,7 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
             </div>
           </div>
           <div class="col-sm-6">
-            <div class="cart-service background-main-color">
+            <div class="cart-service background-main-color img-about">
               <div class="icon"><img src="assets/icons/service-light-3.png" alt=""></div>
               <h2><?php echo $ocean_freight_title ?></h2>
               <hr>
@@ -111,8 +111,8 @@ $ocean_freight_content = "Join us in exploring the power of ocean freight as we 
               </div>
             </div>
           </div>
-          <div class="col-sm-6">
-            <img src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" alt="">
+          <div class="col-sm-6 ">
+            <img class="img-about" src="assets/img/william-william-NndKt2kF1L4-unsplash.jpg" alt="">
           </div>
         </div>
 
