@@ -51,7 +51,7 @@ $show_all = "Show all";
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="service-icon-box">
+        <div class="service-icon-box ">
           <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
           <a href="#" class="title h2"><?php echo $ocean_freight_title_ ?></a>
           <div class="des">
@@ -71,7 +71,7 @@ $show_all = "Show all";
       </div>
     </div>
 
-    <div class="text-center">
+    <div class="text-center mt-4">
       <a href="service.php" class="nile-bottom md"><?php echo $show_all ?><i class="fa fa-arrow-right"></i> </a>
     </div>
   </div>
