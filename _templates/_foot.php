@@ -22,27 +22,8 @@
   <script src="assets/js/custom.js"></script>
   <script src="assets/js/popper.min.js"></script>
   <script src="assets/js/bootstrap.min.js"></script>
+  <script src="assets/js/readmore.js"></script>
 
-  <!-- For Read More expansion in Home Page -->
-  <script>
-  document.addEventListener("DOMContentLoaded", function() {
-  var moreText = document.getElementById("more");
-  var previewText = document.getElementById("preview");
-  var readMoreLink = document.getElementById("read-more-link");
-
-  readMoreLink.addEventListener("click", function(e) {
-    e.preventDefault();
-      if (moreText.style.display === "none") {
-        moreText.style.display = "inline";
-        readMoreLink.innerHTML = "Read Less";
-      } else {
-        moreText.style.display = "none";
-        moreText.style.marginLeft = "0"; 
-        readMoreLink.innerHTML = "Read More";
-      }
-    });
-  });  
-  </script>
 </body>
 <!-- home-100:30-->
 
