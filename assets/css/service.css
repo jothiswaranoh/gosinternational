@@ -1,5 +1,5 @@
 .bg-servicepage{
-    background-image: linear-gradient(180deg, rgb(255, 255, 255) , rgb(224, 223, 223));
+    background-image: linear-gradient(to bottom right, #b5c0cb , #f7f7f7);
 }
 .contact-box-service{
     background-color: rgb(50, 130, 177);

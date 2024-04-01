@@ -9,8 +9,8 @@
     overflow: hidden; 
 }
 .bg-gradiant {
-    background-image: linear-gradient(to bottom right,#D7E1EC ,#FFFFFF);
+    background-image: linear-gradient(to bottom right,#b5c0cb ,#f7f7f7);
 }
 .bg-gradiant1 {
-    background-image: linear-gradient(to top right,#D7E1EC ,#FFFFFF);
+    background-image: linear-gradient(to top right,#b5bec9 ,#f7f7f7);
 }
