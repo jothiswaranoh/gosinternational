@@ -1088,7 +1088,7 @@ row-gap:1rem;
 }
 
 .service.layout-1 {
-  padding: 30px;
+  padding: 20px;
   backdrop-filter: blur(2px);
   border: 1px solid rgba(255, 255, 255, 0.5);
   background-color: rgba(255, 255, 255, 0.1);
@@ -1098,11 +1098,10 @@ row-gap:1rem;
   float: left;
   margin-right: 25px;
 }
-.service.layout-1 a.title {
+.service.layout-1 .title {
   display: inline-block;
   color: #fff;
   margin-top: 10px;
-  margin-bottom: 10px;
   font-size: 18px;
 }
 .service.layout-1 .dis {
@@ -1206,15 +1205,18 @@ row-gap:1rem;
 
 .service-icon-box {
   text-align: center;
-height: 100%;
-width: 100%;
   padding: 20px;
-    color: #fff;
-    text-align: center;
-    -webkit-box-shadow: 0px 0px 36px -13px rgba(0, 0, 0, 0.75);
-    -moz-box-shadow: 0px 0px 36px -13px rgba(0, 0, 0, 0.75);
-    box-shadow: 0px 0px 30px -13px var(--primary-blue);
-    margin-bottom: 30px;
+}
+.service-box-index{
+height: 100%;
+  width: 100%;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+  -webkit-box-shadow: 0px 0px 36px -13px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 0px 0px 36px -13px rgba(0, 0, 0, 0.75);
+  box-shadow: 0px 0px 30px -13px var(--primary-blue);
+  margin-bottom: 30px;
 }
 .icon-location{
   animation: none !important;
@@ -2112,7 +2114,7 @@ footer.layout-dark .nile-widget.widget_nav_menu ul li a:before {
   margin-right: 5px;
 }
 footer.layout-dark .copy-right {
-  background-color: #363535;
+  background-color: #212428d1!important;
 }
 footer.layout-dark .copy-right .copy-right-text {
   color: #fff;
@@ -33162,6 +33164,9 @@ ul.social-icon.style-1 li a {
 ul.social-icon.style-2 li a {
   color: #fff;
 }
+ul.social-icon.style-2 li a:hover {
+  color:var(--primary-blue);
+  }
 ul.social-icon.style-2 li.icon-rss a {
   background-color: #faa33d;
 }
