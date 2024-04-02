@@ -34,7 +34,7 @@ $show_all = "Show all";
     <!-- // End Title -->
     <div class="row">
       <div class="col-lg-3 col-md-6">
-        <div class="service-icon-box">
+        <div class="service-icon-box service-box-index">
           <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
           <a href="#" class="title h2"><?php echo $marine_cargo_title ?></a>
           <div class="des"> <?php echo $marine_cargo_content ?>
@@ -43,7 +43,7 @@ $show_all = "Show all";
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="service-icon-box">
+        <div class="service-icon-box service-box-index">
           <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
           <a href="#" class="title h2"><?php echo $cruiser_title ?></a>
           <div class="des"><?php echo $cruiser_content ?></div>
@@ -51,7 +51,7 @@ $show_all = "Show all";
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="service-icon-box ">
+        <div class="service-icon-box service-box-index">
           <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
           <a href="#" class="title h2"><?php echo $ocean_freight_title_ ?></a>
           <div class="des">
@@ -61,7 +61,7 @@ $show_all = "Show all";
       </div>
 
       <div class="col-lg-3 col-md-6">
-        <div class="service-icon-box">
+        <div class="service-icon-box service-box-index">
           <div class="icon"><img src="assets/icons/service-blue-3.png" alt=""></div>
           <a href="#" class="title h2"><?php echo $pack_store_title_ ?></a>
           <div class="des">
