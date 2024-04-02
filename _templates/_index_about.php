@@ -3,7 +3,7 @@ $who_we_are_title =   "Who We Are ?";
 $who_we_are_content = "Green Ocean Shipping International has been a pioneer in the shipping industry in the Andaman and Nicobar Islands since 1977. 
                        For over <b>4 decades</b>, we have navigated the vast oceans,connecting distant shores with our unparalleled ocean freight services.
                        With our <i>Registered office</i> and <i>Corporate office</i> nestled in the bustling hub of <i>Anna Nagar, Chennai</i>, we stand ready to chart a course for success, together with you.
-                       Embark on a voyage with Green Ocean Shipping International, where every wave tells a story of innovation and reliability.. Our commitment to excellence and dedication to customer satisfaction 
+                       Embark on a voyage with Green Ocean Shipping International, where every wave tells a story of innovation and reliability. Our commitment to excellence and dedication to customer satisfaction 
                        have made us a beacon in the shipping industry. Set sail with us and experience the thrill of seamless logistics, as we navigate the waters of global trade. 
                        ";
 $read_more =          "Read More";
